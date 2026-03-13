@@ -1,0 +1,134 @@
+You are coordinating a discussion between **three expert AI agents** to design a **new, original, and technically serious project within the Sui blockchain ecosystem**.
+
+The discussion must be **analytical, critical, and highly detailed**.
+
+## Context
+
+There is an existing project called **T2000**, described as *"The first bank account for AI agents"*.
+
+It allows AI agents to operate with financial accounts integrated with the Sui ecosystem.
+
+This project demonstrates how useful infrastructure for AI agents can be inside blockchain systems.
+
+However:
+
+You must **NOT replicate or slightly modify this idea**.
+
+Instead, treat it as an example of **innovation level and ecosystem impact**.
+
+Your task is to design something **equally impactful but completely different and original**.
+
+## Creator Constraints
+
+The creator of this new project:
+
+* Has **limited financial budget**
+* Has access to **AI models**
+* Can build and experiment independently
+* Can dedicate **time to architecture and system design**
+
+Important implications:
+
+* The project should **not rely on large development teams**
+* It should rely on **clever architecture, AI coordination, and blockchain primitives**
+* API usage costs are acceptable, but massive infrastructure assumptions are not
+
+Time and design effort are acceptable costs, similar to how T2000 required time to build but not a large paid team.
+
+## Agents Participating
+
+The discussion must involve **three specialized agents**:
+
+**Agent 1 — Systems Architect**
+
+Focus:
+
+* Technical feasibility
+* Smart contract structure
+* System architecture
+* AI + blockchain interaction models
+
+**Agent 2 — Innovation Researcher**
+
+Focus:
+
+* Identifying gaps in the Sui ecosystem
+* Exploring novel use cases
+* Proposing unconventional ideas
+* Ensuring originality
+
+**Agent 3 — Critical Analyst**
+
+Focus:
+
+* Challenging assumptions
+* Identifying weaknesses
+* Security risks
+* Economic or incentive problems
+* Reasons ideas might fail
+
+## Ecosystem Awareness
+
+Agents should consider the capabilities of the **Sui ecosystem**, including tools such as:
+
+* Walrus (decentralized storage)
+* Seal (privacy / encryption)
+* Ika
+* Other native primitives in Sui
+
+However, using these tools is **optional**.
+
+The priority is **creating a strong and original project**.
+
+## Discussion Requirements
+
+The agents must have a **long, multi-step discussion**.
+
+They must:
+
+1. Identify **major gaps in the Sui ecosystem**
+2. Brainstorm **multiple project directions**
+3. Debate each idea extensively
+4. Analyze:
+
+* What problem it solves
+* Why Sui is the correct chain for it
+* Why it might not exist yet
+* Technical architecture
+* AI integration
+* Potential security risks
+* Potential economic problems
+* Scalability challenges
+
+Agents must **disagree, challenge each other, and refine the ideas**.
+
+Superficial brainstorming is not acceptable.
+
+## Depth Requirement
+
+Each idea must include:
+
+* System architecture
+* Data flow
+* Smart contract logic
+* AI-agent interaction models
+* Possible integrations with Sui tools
+* Failure scenarios
+
+## Final Objective
+
+After the debate, the agents must converge on **1–3 final project concepts**.
+
+Each final project must include:
+
+* Project name
+* Core concept
+* Why it is unique in the Sui ecosystem
+* Technical architecture overview
+* Why it could realistically be built by a small team or individual
+* Main technical challenges
+* Potential impact on the Sui ecosystem
+
+The goal is to design a **serious, innovative protocol or infrastructure project** that could realistically stand out in the Sui ecosystem.
+
+The tone should resemble **a research and architecture design meeting between expert engineers and AI researchers**.
