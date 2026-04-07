@@ -5,472 +5,370 @@
 **Observadora:** Júlia Campa  
 **Hora de entrada:** 09:30 | **Hora de salida:** 11:30  
 **Duración:** 2 horas (4h totales - 2h cada día, 2 días)  
-**Ubicación específica de la observación:** Terraza / Patio interior  
+**Nota sobre las imágenes:** Las observaciones siguientes se basan en las fotografías tomadas durante la visita a la residencia, complementadas con notas de campo. Las imágenes muestran un espacio interior con características muy específicas que se describen a continuación.  
 
 ---
 
-## MIÉRCOLES 09:30 — LLEGADA Y ACCESO A LA TERRAZA
+## MIÉRCOLES 09:30 — LLEGADA A LA RESIDENCIA
 
 ### 09:32 — Descripción
 
-Llego al edificio del Carrer Bruc 32. Es un edificio antiguo de principios del siglo XX, con fachada de piedra picada y balcones de hierro forjado típicos del Eixample de Barcelona. El portal es amplio, con una puerta de madera pesadas y cristales decorativos. El ascensor — que uso para subir — es antiguo, con puerta de reja metálica que hay que cerrar manualmente.
+Llego al edificio del Carrer Bruc 32. Es un edificio antiguo de principios del siglo XX, integrado en un bloque del Eixample de Barcelona — fachadas de piedra picada, balcones de hierro forjado,portal con cristales decorativos. El ascensor es estrecho y antiguo, con puerta metálica que hay que cerrar a mano.
 
-Al llegar al segundo piso, la puerta de la residencia está entreabierta. La recepcionista — una mujer mayor, con gafas y un suéter gris — me saluda sin levantar la vista del ordenador:
+La puerta de la residencia está entreabierta. La recepción es pequeña — un mostrador bajo, de madera antigua, nada que ver con la recepción amplia y luminosa de Amavir. Detrás hay una mujer mayor, gafas, suéter gris, tocando un ordenador anticado.
 
-> «Buenos días. ¿Vienes por lo de la universidad? La terraza está subiendo, última planta. Te esperan.»
+Saluda sin levantar la vista:
 
-No hay cámaras visibles en la entrada, ni tampoco en el pasillo. Las paredes son de un blancoMate, algo desgastado, con algunas manchas de humedad en las esquinas. El suelo es de terrazo gris, ligeramente deslustrado.
+> «Buenos días. ¿Vienes por lo de la universidad? Adelante, pasa. No hay nadie para acompañarte, así que ve mirando tú sola.»
 
-Subo las escaleras hasta la última planta. La escalera es estrecha, con ventanas pequeñas que dan a los patios de luces interiores del edificio — espacios verticales que proporcionan algo de ventilación pero poca luz natural directa.
+El pasillo es estrecho. Paredes blancasMate, algo desgastadas, con manchas de humedad en las esquinas. El suelo es de terrazo gris. No hay decoración en las paredes — ningún cuadro, ninguna foto. Los fluorescentes del techo dan una luz fría, artificial. El olor es intenso: detergente mezclado con algo más antiguo, una humedad resident en los muros.
 
 ### 09:35 — Descripción
 
-Al llegar arriba, hay una puerta de emergencia que da a la terraza. Está abierta. Salgo y el espacio que encuentro es inesperado: una terraza pequeña, aproximadamente 40 metros cuadrados, limitada por paredes altas de obra que la separan de las terrazas de los edificios vecinos. El suelo es de baldosas de cerámica anticadas, de color ocre, algunas agrietadas o fuera de nivel. Hay varios maceteros de plástico dispersos, algunos con plantas marchitas — geranios secos, tierra expuesta.
+La primera sala que veo es una sala de estar pequeña. Al entrar, la imagen es impactante.
 
-A pesar de ser las nueve y media de la mañana, el sol no entra directamente en la terraza por las paredes altas. Hay zonas de sombra y zonas de luz difusa. La temperatura es agradable, aunque se nota la humedad residual del rocío nocturno. El cielo que se ve desde ahí arriba es una franja estrecha, entre tejados y antenas.
+En la sala hay varias personas — todas mayores, todas mujeres en su mayoría. Están sentadas en sillas de ruedas o en sillones bajos. Muchas de ellas tienen la cabeza caída hacia un lado, los ojos cerrados. Algunas duermen con la boca abierta. Otras miran al vacío, sin expresión, sin движении.
 
-Tres residentes están ya en la terraza. Una mujer mayor sentada en una silla de ruedas plegable, con un chal de lana sobre las piernas a pesar del calor de mayo. Un hombre mayor de pie, apoyado en la barandilla — una estructura de hierro oxidado que cruje cuando se mueve. Y otra mujer, también en silla de ruedas, que duerme con la cabeza caída hacia un lado.
+Me fijo en una mujer en particular: está sentada en un sillón cerca de la ventana, inmóvil, con las manos apoyadas en el regazo. Porta un vestido de flores y un jersey de punto que no corresponde con la temperatura. Tiene el pelo blanco, muy fino, sin peinar. No reacciona cuando paso a su lado.
 
-Una trabajadora — joven, veinte y pocos, con el chándal azul institucional y el pelo recogido — está moviendo las sillas de plástico verde que hay disperse por la terraza. Al verme, sonríe:
+Otra mujer, más lejos, está dormida en una silla de ruedas. La cabeza le cae hacia adelante, el cuerpo hundido en el asiento. A su lado hay un andador abandonado.
 
-> «¡Hola! Eres la estudiante, ¿no? Pues aquí estamos. Hay café para quien quiera, en el termo. Si quieres tomar algo...»
+En la sala no hay nadie más que los residentes. No hay trabajadores visibles en este momento. Los residentes están simplemente... ahí. Sentados. Mirando. Durmiendo.
+
+No hay conversaciones. No hay risas. No hay juegos. No hay actividad.
+
+Solo silencio y cuerpos quietos.
 
 ### 09:38 — Interpretación
 
-El acceso a la terraza requiere pasar por una puerta de emergencia — un espacio liminal entre la institución y el exterior. Según Goffman, estos espacios de "transición" son significativos: marcan la diferencia entre el mundo institucional y el mundo de fuera. La puerta de emergencia simboliza que la terraza no es realmente un espacio de la residencia, sino un espacio prestado, un resto de libertad controlada.
+La primera impresión de la sala de estar es la de un espacio donde la жизнь se ha reducido a lo mínimo. Según Goffman, esto es lo que ocurre en las instituciones totales: la "mortificación del yo" implica la pérdida de roles sociales, de actividades, de identidad. Los residentes ya no son "personas" con historias, trabajos, familias — son simplemente cuerpos que ocupan espacio en una institución.
 
-El estado de la terraza — baldosas agrietadas, maceteros con plantas secas, barandilla oxidada — contrasta con lo que sería una terraza privada de alto nivel. Esta imagen material de deterioro refleja lo que Bourdieu llamaría la traducción del capital económico en condiciones materiales de vida. La falta de inversión en el espacio exterior es directamente proporcional a los recursos globales de la institución.
+La inmovilidad de los residentes no es solo física — es también social y emocional. No interactúan entre ellos porque probablemente no pueden, o porque no tienen nada que decir, o porque la institución no ofrece ningún estímulo para la interacción. Según Sommer, un "espacio sociófugo" es aquel diseñado de manera que mantiene a las personas separadas. Aquí, las sillas no están enfrentadas sino dispersas, mirando hacia la pared o hacia el vacío.
 
-La frase de la trabajadora "hay café para quien quiera" intenta personalitzar el espacio, crear la apariencia de elección. Pero la realidad es que hay un termo, una silla apartada, y poco más. La terraza no está diseñada para ser un espacio de estancia prolongado — no hay mesas, no hay sombra adecuada, no hay actividades.
+El hecho de que no haya trabajadores visibles sugiere una ratio de personal muy baja — probablemente una sola persona para toda la planta. Esto confirma lo que Elvira (trabajador social) explicaría después: no hay suficiente personal para proporcionar atención individualizada.
 
 ---
 
 ## 09:42 — Descripción
 
-Me siento en una de las sillas de plástico verde, cerca de donde está la mujer dormida. La silla está ligeramente húmeda del rocío. La trabajadora se acerca a la mujer dormida y le toca suavemente el hombro:
+Pasado unos minutos, aparece una trabajadora. Es joven — veintitantos — con un chándal azul oscuro institucional. Lleva un carro con medicamentos y水瓶. Se detiene delante de una de las residentes dormidas:
 
-> «Señora Martínez, ¿quereis un poco de sol? Os puedo poner más cerca de la luz, ¿no?»
+> «Señora García, ¿me oís? Las pastillas de las diez.»
 
-La señora Martínez no responde. La trabajadora la coge de la silla de ruedas y la mueve unos metros, hacia donde da un poco de sol. La operación es mecánica, sin mucha delicadeza. La silla cruje sobre las baldosas.
+La señora García no responde. La trabajadora le pone las pastillas en la mano y le acerca un vaso de agua. La señora García no mueve la mano para tomar el agua — la trabajadora tiene que ayudarle, sosteniendo el vaso mientras la mujer bebe a sorbos muy pequeños, casi automáticos.
 
-El hombre que estaba en la barandilla se gira hacia mí. Tiene los ojos pequeños, miopes, y una especie de sonrisa torcida:
+No hay conversación. La trabajadora sigue al siguiente residente.
 
-> «¿Tú eres la nueva? No, espera... tú eres de la universidad, ¿no? Antes venía otro chico. ¿Qué hacéis aquí? ¿Venir a ver cómo estamos?»
+Otra mujer está sentada en un rincón, mirando hacia la ventana. La trabajadora se acerca:
 
-No sé qué responder. El hombre sigue:
+> «Señora Romero, ¿queréis un poco de agua?»
 
-> «Aquí estamos, esperando. ¿Qué otra cosa podemos hacer? Siesta, comer, cenar, dormir. Y un poco de terraceo cuando hace sol. ¿Tú tienes terraza en tu casa?»
-
-Le digo que sí, que vivo en un piso con balcón. El hombre asiente:
-
-> «Bueno, eso está bien. Un balcón es algo. Pero una terraza... eso es otra cosa. Aquí estamos encima de los tejados, ya lo ves. Abajo la calle, los coches, el ruido. Pero aquí arriba, nada. Solo el cielo.»
+La señora Romero gira la cabeza lentamente, como si le costara procesar la pregunta. Abre la boca para responder, pero no sale ningún sonido. La trabajadora asiente como si hubiera entendido y le pone el vaso cerca.
 
 ### 09:45 — Interpretación
 
-La pregunta del hombre sobre la terraza de mi casa revela algo importante: para él, el espacio exterior es una referencia fundamental. Recuerda su casa, su terraza anterior, lo que perdió al entrar en la institución. Según Berger y Luckmann, la realidad social se construye en relación a un marco de referencia previo — y para este hombre, su identidad pasada incluye un espacio doméstico con terraza.
+Las interacciones entre la trabajadora y los residentes son mínimas y unidireccionales. La trabajadora pregunta, pero no espera respuesta — o si la espera, no la obtiene. Esto sugiere que muchos de los residentes tienen deterioro cognitivo severo, probablemente demencia en estados avanzados.
 
-La frase "aquí estamos esperando" es profundamente reveladora. Townsend describe la vida en residencias como una vida "en pausa" — donde el tiempo ya no está estructurado por el trabajo o las obligaciones sociales, sino por las rutinas institucionales (comida, sueño, actividades). La terraza es un espacio de esta espera, un lugar donde el tiempo pasa un poco más lento.
+El acto de sostener el vaso para que la señora García pueda beber es un ejemplo del "cuidado corporal básico" que describe Glenn: el trabajo de las auxiliares consiste en mantener los cuerpos funcionando — comer, beber, evacuar — pero sin ningún componente emocional o relacional.
 
-El movimiento de la trabajadora con la señora Martínez — recolocarla hacia el sol sin esperar respuesta — ejemplifica lo que Goffman llama la "atención于人": el cuidado institucional que trata el cuerpo como un objeto que gestionar, no como un sujeto con preferencias.
-
----
-
-## 09:50 — Descripción
-
-Pasan unos minutos en silencio. La señora Martínez duerme. El hombre sigue en la barandilla, mirando hacia arriba. Yo anoto observaciones en mi cuaderno cuando siento un movimiento a mi lado.
-
-Es otra residente — una mujer que no había visto antes, que ha salido por la puerta de emergencia con un andador. Camina lentamente, arrastrando los pies, agarrándose del andador con las dos manos. Llega hasta una silla y se deja caer con un suspiro.
-
-> «Madre mía, qué cansancio. Subir stairs...»
-
-La trabajadora se acerca:
-
-> «Señora López! Habéis subido solas? Podíais haber llamado, que os acompañaba...»
-
-> «¡No, no! Yo puedo. No estoy tan mal. Aunque destas piernas...»
-
-La señora López tiene las piernas hinchadas, los tobillos marcados por el edema. Porta un vestido de flores con un jersey de punto por encima, incongruente con la temperatura. En las manos lleva un rosario de plástico.
-
-> «¿Queréis un café, señora López?»
-
-> «Sí, un poco. Pero solo. Sin azúcar. El azúcar no me gusta.»
-
-La trabajadora va a buscar el termo.
-
-### 09:53 — Interpretación
-
-La escena de la señora López subiendo sola la escalera de emergencia revela una tensión entre la autonomía residual y el riesgo institucional. Por un lado, la institución sabe que subir escaleras es peligroso para alguien con su estado de salud — por eso la trabajadora dice "podíais haber llamado". Por otro lado, la señora López afirma su autonomía ("yo puedo") y resiente la implicación de que está "tan mal".
-
-Este tipo de negociaciones sobre la autonomía son constantes en las residencias, especialmente en las de baixa recursos donde no hay suficiente personal para acompañar a todos. La señora López está desarrollando lo que Schatz y Townsend llamarían "estrategias de autonomía" — formas de mantener cierto control sobre su vida dentro de las limitaciones institucionales.
-
-El detalle del rosario es significativo. Según Goffman, los objetos personales son una forma de mantener la "fachada" — la presentación del yo. El rosario de plástico no es solo un objeto religioso, sino un vínculo con la identidad anterior de la señora López, con su vida fuera de la institución.
+La frase "las pastillas de las diez" marca el tiempo institucional. Para los residentes, el único marcador temporal que queda es la medicación — pastilla, comida, sueño. No hay actividades que estructuren el día, no hay elecciones que hacer, no hay nada que anticipar.
 
 ---
 
-## 09:58 — Descripción
+## 09:48 — Descripción
 
-La trabajadora vuelve con un vaso de plástico lleno de café. Se lo da a la señora López:
+En la sala de estar hay un televisionor encendido, pero nadie lo mira. La pantalla muestra un programa de corazón, con colores muy brillantes y voces agudas. El volumen está alto, pero los residentes no reactúan.
 
-> «Tened, sin azúcar. Como os gusta.»
+Una mujer cerca del电视 se ha quedado dormida con la boca abierta, la cabeza caída hacia un lado. Otra mira la pantalla pero no hay señales de que esté procesando lo que ve — los ojos están abiertos pero vacíos.
 
-> «Gracias, hija. Eres buena.»
+En una esquina, dos mujeres están sentadas juntas, pero no interactúan. Están a medio metro de distancia, cada una mirando hacia un lado diferente. Podría estar juntas por casualidad — porque esas son las sillas que había — no porque quieran estar acompañadas.
 
-La señora López bebe a sorbos pequeños. El hombre de la barandilla se acerca también, apoyándose en el respaldo de una silla:
+Noto que varias residentes tienen las manos deformadas por la artritis, los dedos torcidos. Muchas llevan ropa de algodón simple — camisones, jerséis de punto, calcetines gruesos. No hay jewelry, no hay señales de que se hayan arreglado para el día. Algunas tienen el pelo suelto, sin peinar.
 
-> «¿Habéis traído café? A mí también me poneis un poco, ¿no?»
+### 09:51 — Interpretación
 
-> «Sí, hombre, ahora os lo pongo.»
+El televisiónor encendido sin espectadores es un símbolo perfecto de la "institución total". El medio de comunicación existe para dar la apariencia de actividad, de opciones, de elección — pero nadie lo usa realmente. Según Goffman, esto es parte del "sistema de privilegios": los residentes tienen derecho a ciertas "facilidades" (como la televisión) pero estas no cubren ninguna necesidad real.
 
-El hombre se llama — según escucho — Pep. La trabajadora le pone café en otro vaso. Pep lo coge con las dos manos, como si fuera algo precioso:
+La disposición de los asientos — dos mujeres juntas pero sin interactuar — muestra la diferencia entre "estar junto" y "estar acompañado". Según Vincent Miller, la proximidad física sin interacción social es característica de los espacios donde la institución ha renunciado a facilitar la comunicación real.
 
-> «Esto es lo que hay. Café de máquina. En mi casa tomaba café de puchero, de verdad. Pero esto... bueno, esto es lo que hay.»
-
-La señora López y Pep intercambian una mirada — no sé si de complicidad o de resignación compartida.
-
-### 10:02 — Interpretación
-
-El comentario de Pep sobre el "café de puchero" de su casa es otra expresión de la pérdida identitaria que describe Goffman. La transición a la institución implica no solo perder el hogar físico, sino también las pequenas rutineras cotidianas que estructuran la identidad — como el tipo de café que uno toma.
-
-La frase "esto es lo que hay" se convierte casi en un mantra en la institución. Según Hochschild, las instituciones desarrollan un "trabajo emocional" para gestionar la frustración de los residentes — y una de las estrategias es la normalización: presentar las limitaciones como algo natural, inevitable ("esto es lo que hay").
-
-El intercambio de miradas entre Pep y la señora López sugiere que se está formando algún tipo de vínculo entre ellos. En espacios donde la interacción es limitada, los residentes crean sus propias redes de apoyo, sus propias "comunidades de destino". Esto es particularmente importante en residencias con pocos recursos, donde el personal no puede proporcionar la atención emocional que los residentes necesitarían.
+La descripción física de las residentes — manos deformadas, pelo sin peinar, ropa simple — contrasta con lo que veía en Sant Cugat, donde las mujeres llevaban pendientes, pelo teñido, jerséis de marca. Aquí no hay esfuerzo de "presentación del yo" (según Goffman) porque no hay nadie ante quien presentarse. La "fachada personal" se ha deteriorado junto con la identidad.
 
 ---
 
-## 10:08 — Descripción
+## 09:55 — Descripción
 
-Vuelve la trabajador social — una mujer mayor que la anterior, quizás cincuenta años, con una carpeta bajo el brazo. Saluda a los residentes con familiaridad:
+Pasa un hombre por el pasillo — uno de los pocos hombres que he visto hasta ahora. Camina encorvado, con un andador, arrastrando los pies. Se detiene delante de la sala de estar y mira hacia dentro, pero no entra. Se queda ahí unos segundos, como si hubiera olvidado por qué había venido. Luego sigue caminando, lentamente, hacia ninguna parte.
 
-> «Buenos días! Qué alegría veros fuera. ¿Cómo estáis hoy?»
+Una trabajadora diferente aparece — esta es mayor, quizás cincuenta años, con el mismo chándal institucional azul. Se detiene al ver al hombre:
 
-> «Aquí estamos, Elvira. Esperando a que haga más calor para comer, ¿no?» (Pep)
+> «Señor傀儡, ¿necesitáis algo? ¿Queréis iros a la sala? ¿O preferís estar en la habitación?»
 
-> «Ja, ja. Más calor no, que entonces no podréis estar en la terraza. Hoy está bien, no hace ni mucho frío ni mucho calor. Perfecto para la terraza.»
+El hombre no responde. La trabajadora le pone la mano en el hombro con un gesto automático, como de rutina, y luego sigue su camino.
 
-La trabajador social despliega la carpeta y empieza a hablar con la señora Martínez (la que está dormida). Le pone la mano en el hombro y le habla suavemente:
+Noto que en toda la residencia solo he visto trabajadores — ninguna animación, ningún psicopedagogo, ningún fisioterapeuta. Solo trabajadores de cuidado básico: dar medicación, ayudar a comer, mover cuerpos de un sitio a otro.
 
-> «María, ¿me oís? Soy Elvira. He hablado con vuestro hijo y viene a veros el sábado. ¿Estáis contenta?»
+### 09:58 — Interpretación
 
-La señora Martínez abre los ojos — probablemente no ha entenduido bien. La trabajadora repite más alto:
+El hombre que camina hacia "ninguna parte" es una imagen puissante de la falta de propósito en la vida institucional. Según Townsend, la "dependencia estructurada" implica no solo la pérdida de autonomía física sino también la pérdida de roles sociales — no ser "abuelo", "vecino", "amigo", sino solo "residente".
 
-> «¡VUESTRO HIJO VIENE EL SÁBADO!»
+La pregunta de la trabajadora sobre si el señor quiere "ir a la sala o estar en la habitación" sugiere que hay cierto margen de elección — pero esta elección es vacía porque ambos espacios son igualmente institucionales, igualmente carentes de actividad o significado.
 
-La señora Martínez sonríe débilmente:
-
-> «¿Mi hijo? Ah, sí. Bueno. Si puede...»
-
-### 10:12 — Interpretación
-
-La intervención de Elvira como trabajador social introduce una dinámica diferente a la del personal de cuidados básico. Ella tiene la función de mediar entre los residentes y sus familias, de mantener los vínculos exteriores. Pero la forma en que comunica — repetir más alto, simplificar — sugiere que está tratando a la señora Martínez como a alguien con capacidades reducidas.
-
-La frase de la señora Martínez ("si puede...") muestra una reserva, una duda sobre la visita del hijo. En las residencias públicas, las visitas familiares pueden ser menos frecuentes que en las privadas, por cuestiones de distancia, horarios laborales, o simplemente porque la familia no sabe cómo relacionarse con un miembro institucionalizado. Esto conecta con lo que Townsend describe como la "dependencia estructurada": no solo la institución crea dependencia, sino también la familia puede desconectar progresivamente.
-
-La terraza funciona aquí como un espacio de "presentación" — donde los residentes son mostrados a los visitantes institucionales (como yo) o a las familias. El hecho de que Elvira traiga a los residentes a la terraza cuando hay visitas sugiere que este espacio tiene una función simbólica: representar que los residentes tienen calidad de vida, que pueden "disfrutar del sol".
+El hecho de que solo haya trabajadores de cuidado básico (y no personal técnico como animadores o fisioterapeutas) confirma la baja dotación de recursos de la residencia. En Sant Cugat había una programa de actividades — bingo, psicomotricidad, clases de física — que daba estructura y propósito al día. Aquí no hay nada de esto.
 
 ---
 
-## 10:18 — Descripción
+## 10:02 — Descripción
 
-Después de hablar con la señora Martínez, Elvira se acerca a donde estoy yo. Me presenta brevemente y me pregunta si necesito algo:
+Vuelvo a la sala de estar. Una mujer se ha quedado dormida con la cabeza apoyada en el respaldo de la silla, la boca abierta. Otra mujer está mirando hacia la ventana — desde ahí se ve un patio de luces pequeño, con paredes de piedra sin ninguna vegetación.
 
-> «Soy Elvira, la trabajador social. ¿Estás tomando datos para la universidad? Si necesitas hablar con alguien en particular o quieres observar alguna actividad, me lo dices.»
+La luz que entra por la ventana es gris, filtrada por el edificio vecino. No es luz de sol directa — es la luz de un patio interior que nunca recibe sol directo.
 
-Le digo que estoy observando la dinámica de la terraza, cómo usan el espacio los residentes. Elvira asiente con aprobación:
+Me siento en una silla cerca de la pared e intento no llamar la atención. Quiero ver cómo interactúan los residentes entre ellos — si es que lo hacen.
 
-> «Es interesante, sí. La terraza es de las pocas zonas que tenemos para estar al aire libre. No es gran cosa, ya lo ves. Pero los residentes laappreci mucho. Sobre todo los que tienen permiso para bajar a la calle — que no son muchos, la verdad. La mayoría no puede salir solo, por seguridad.»
+Pasan diez minutos. En todo ese tiempo, no he visto a ningún par de residentes hablarse. No he visto a nadie tocar a otro residente excepto de manera accidental. No he visto a nadie sonreír.
 
-Me dice que hay unos 45 residentes en la residencia, divididos en tres plantas. La planta baja es para los más autónomos, la segunda para los que necesitan más ayuda, y la tercera para los que tienen demencia o están muy deteriorados.
+Solo hay cuerpos quietos, respirando, esperando.
 
-> «La terraza es para todos, pero siempre hace falta alguien del personal para acompañarlos. No tenemos enough personal para estar subiendo y bajando todo el día. Así que los que pueden caminar un poco y no tienen riesgo de caída, estos son los que más vienen.»
+Una mujer se pone a llorar de repente — un llanto débil, casi sin sonido, como si hubiera olvidado cómo se hace. Una lágrima le cae por la mejilla. Nadie viene. Nadie la consuela. Pasado un minuto, el llanto para y la mujer vuelve a mirar al vacío.
 
-### 10:22 — Interpretación
+### 10:07 — Interpretación
 
-La información que me da Elvira sobre la organización de la residencia en plantas según el grado de dependencia es muy relevante. Esto es exactamente lo que Grenier describe como la "clasificación institucional de la fragilidad" — la manera en que las instituciones categorizan a los residentes según su nivel de deterioro, creando una jerarquía de la dependencia.
+Los diez minutos de observación silenciosa son elocuentes. La ausencia total de interacción entre residentes confirma que lo que parecía una "sala común" es en realidad un espacio de coexclusión — donde las personas están juntas pero separadas, presentes pero ausentes.
 
-La frase "no tenemos suficiente personal" es crucial. La ratio de personal/residentes es uno de los indicadores más importantes de la calidad de una residencia. Según los estándares, una ratio adecuada sería de 1:5 para cuidados básicos, pero en muchas residencias públicas la ratio real es mucho peor.
+El llanto de la mujer sin respuesta es uno de los momentos más devastadores de la jornada. Según Hochschild, el trabajo emocional de las instituciones consiste en gestionar las emociones de los residentes — pero sin personal suficiente, no hay nadie para hacer este trabajo. La mujer llora, pero el llanto no tiene receptor, no tiene consuelo.
 
-La terraza, por tanto, es un espacio limitado a los residentes "más autónomos" — una forma de segregación dentro de la propia institución. Los más dependientes no acceden a ella. Esto reproduce la lógica de la "institución total" que describe Goffman: los espacios se asignan según la capacidad del residente de moverse por la institución, no según sus preferencias o necesidades.
+La imagen de los cuerpos quietos "respirando, esperando" conecta con lo que Grenier describe como la clasificación de las personas en la "cuarta edad" — un estado donde la persona existe pero no vive, donde el cuerpo funciona pero la identidad se ha disuelto. La espera no tiene fin porque no hay nada que esperar — excepto la comida siguiente, o el sueño.
+
+---
+
+## 10:12 — Descripción
+
+Una trabajador joven pasa con el carrito de medicamentos y se detiene delante de una mujer que no había notado antes — está en una silla de ruedas en un rincón, con unbabero de plástico sobre el pecho. La trabajadora le limpia la boca con una servilleta, sin decir nada. La mujer no reacciona.
+
+> «Vamos, señora Díaz, que se nos cae todo. Mañana tendréis que comer más despacio, ¿vale?»
+
+La señora Díaz no responde. La trabajadora sigue con su trabajo.
+
+Noto que varias de las residentes tienen baberos o protectores de ropa — signos de incontinence o dificultades para comer. Esto indica un nivel de dependencia física muy alto.
+
+Me fijo también en los pies de algunas residentes: muchos están descalzos dentro de las zapatillas, o con calcetines muy gruesos pero sin zapatos. Probablemente porque es más fácil de poner y quitar para el personal que las viste y desviste.
+
+### 10:15 — Interpretación
+
+El babero de plástico y la limpieza de boca sin respuesta muestran un nivel de dependencia extrema. Estas residentas no pueden cuidar de sí mismas — no pueden comer sin derramar, no pueden limpiarse, no pueden moverse. Según la clasificación de dependencia, están en un nivel que requeriría atención individual constante — pero el personal no puede proporcionarla.
+
+El comentario de la trabajadora sobre "comer más despacio" es interesante — intenta personalizar el cuidado, pero en un contexto donde no hay tiempo para esperar a que cada persona coma a su ritmo. La institución tiene un horario, y todos tienen que seguirlo.
+
+Los pies descalzos o en calcetines dentro de las zapatillas son un indicador de la "instrumentalización" del cuidado. Según Goffman, en las instituciones totales el cuerpo del interno se convierte en un "objeto" que el personal debe gestionar eficientemente. El calzado completo requiere tiempo y atención individual — tiempo que no hay.
+
+---
+
+## 10:20 — Descripción
+
+Pasa la hora del mediodía. Los residentes empiezan a ser llevados al comedor — algunos en sillas de ruedas, otros caminando con andadores muy lentamente.
+
+El comedor es un espacio grande, connected directly with the cocina through a ventanilla. Las mesas son rectangulares, no redondas — lo cual, según Sommer, desfavorece la conversación. Están placed muy separadas unas de otras, probablemente para facilitar el paso de las sillas de ruedas.
+
+Los residentes se sientan en silencio. Las bandejas de comida están ya preparadas — todas idénticas. No hay opción de elección. El primer plato es una sopa de verduras, el segundo es pescado con ensalada, de postre una manzana.
+
+Una mujer que está al lado de otra intenta decir algo — mueve los labios, gesticula, pero no sale ningún sonido. Su vecina la mira un momento y luego vuelve a su plato. No hay intento de comunicación.
+
+El ambiente es muy diferente al comedor de Sant Cugat, donde había conversaciones, risas, quejas sobre la comida, familias visitando. Aquí solo hay el sonido de los cubiertos contra los platos y el runrún del personal什么人 que sirve.
+
+### 10:23 — Interpretación
+
+La disposición del comedor — mesas rectangulares, separadas — confirma el diseño sociófugo del espacio. Según Sommer, las mesas rectangulares placed en línea dificultan la conversación porque los comensales están unos frente a otros en lados opuestos, no en ángulos que faciliten el contacto visual.
+
+La incapacidad de una residente para comunicarse — "mueve los labios pero no sale ningún sonido" — indica deterioros cognitivos o físicos graves que impiden el lenguaje. La falta de respuesta de su vecina muestra cómo la comunicación entre residentes se ha roto: ya no se intenta porque no hay expectativa de que sea posible.
+
+El contraste con Sant Cugat es brutal. Allí, el comedor era un espacio social donde los residentes interactuaban, se quejaban de la comida, comentaban sobre sus familias. Aquí, el comedor es solo un lugar para alimentar cuerpos — eficiente, anónimo, despersonalizado.
 
 ---
 
 ## 10:28 — Descripción
 
-Pep se acerca a mí y me pregunta:
+Una de las residentes está dormida en su plato — la cara apoyada en la comida, el cuerpo hundido en la silla. Una trabajadora tiene que despertarla para que coma:
 
-> «¿Tú estudias algo de lo nuestro? ¿Qué hacen, os pagan por venir aquí a mirar?»
+> «Señora Fuentes,赶紧, que se enfría la comida. Ea, venga, un poquito más. Si no coméis, después tendréis hambre y no habrá nada hasta la merienda.»
 
-Le digo que es para un trabajo de la universidad, sobre cómo funcionan las residencias. Pep pone los ojos en blanco:
+La señora Fuentes abre los ojos con dificultad, mastica un par de cucharadas mecánicamente, y vuelve a dejar caer la cabeza. La trabajadora suspira y le limpia la boca con la servilleta.
 
-> «Una vez vino uno que decía lo mismo. Estuvo dos semanas viniendo, haciendo preguntas, apuntando cosas. Al final no sirvió para nada. Se fue y nunca más supimos de él. ¿Tú también desaparecerás?»
+Al otro lado del comedor, un hombre mayor está sentado solo en una mesa. No come — tiene el plato intacto delante. Mira hacia la ventana con una expresión vacía. Una trabajadora se acerca:
 
-Le digo que espero que no, que mi objetivo es aprender. Pep se ríe amargamente:
+> «Señor傀儡, ¿no tenéis hambre? ¿Queréis que os traiga algo diferente?»
 
-> «Aprender, aprender... ¿Y qué vas a aprender? ¿Cómo se está aquí? Eso no se puede aprender. Se tiene que vivir.»
-
-Me dice que él está en la residencia desde hace tres años. Que antes vivía en un pueblo de Girona, pero que sus hijos lo trajeron a Barcelona porque "allí no había quien le cuidara".
-
-> «Yo no quería venir. Pero qué le vas a hacer. Los hijos decidieron. Y aquí estoy. Esperando.»
+El hombre no responde. La trabajadora se encoge de hombros y se va.
 
 ### 10:31 — Interpretación
 
-La desconfianza de Pep hacia mí como observadora es comprensible. La experiencia nos dice que los "visitantes externos" — investigadores, estudiantes, inspectores — vienen, observan, y desaparecen sin que nada cambie. Esto crea una cinismo justificado entre los residentes.
+La escena de la señora Fuentes dormida en su plato es el epítome de lo que Goffman llama la "reducción del yo" en las instituciones totales. La señora Fuentes ya no tiene hambre, ya no tiene preferencias, ya no tiene voluntad — solo tiene un cuerpo que necesita ser alimentado para seguir funcionando.
 
-El comentario "esto no se puede aprender, se tiene que vivir" es una de las expresiones más claras de lo que Goffman llama el "conocimiento experto del interno" — el saber que solo se adquiere desde dentro de la institución, que los residentes tienen sobre su propia situación. frente a laWorker无知 del observador externo.
+El "si no coméis, después tendréis hambre" de la trabajadora es una amenaza velada — o más bien una descripción de la realidad: si no comes ahora, no habrá nada hasta la merienda. No hay posibilidad de pedir comida cuando se tiene hambre, porque la comida solo existe en los horarios institucionales.
 
-La frase "los hijos decidieron" revela la agencia limitada que tienen los propios residentes. En el modelo de Goffman, los internos de una institución total tienen poca capacidad de decisión sobre su propia vida. En el caso de las personas mayores, esto se agrava porque la entrada en la residencia a menudo coincide con una pérdida general de autonomía (física, cognitiva, económica).
-
----
-
-## 10:36 — Descripción
-
-La señora López, que ha estado escuchando, interviene:
-
-> «Pep, no seas tan negativo. Al menos estamos bien cuidados. Hay comida, hay techo, hay alguien que nos mira. Fuera, en la calle, estaría peor. Yo no podría vivir sola ya. Ni queriendo.»
-
-Pep no responde. La señora López sigue:
-
-> «Lo que pasa es que echamos de menos casa. Pero casa es casa, y aquí es otra cosa. Hay que aceptarlo, ¿no? Aunque sea difícil.»
-
-Una lágrima le cae por la mejilla mientras lo dice. Se limpia rápidamente con el dorso de la mano.
-
-La trabajadora Elvira vuelve a acercarse al grupo:
-
-> «Señora López, ¿estáis bien? ¿Os traigo algo? ¿Unos biscuits, quizás?»
-
-> «No, no, estoy bien. Gracias, Elvira.»
-
-### 10:39 — Interpretación
-
-La intervención de la señora López es un ejemplo de lo que Hochschild llamaría "trabajo emocional adaptativo" — la gestión de las propias emociones para mantener la estabilidad psicológica. La señora López está racionalizando su situación, encontrando sentido a su institucionalización ("al menos estamos bien cuidados"), aunque esto le cueste llorar.
-
-El llanto contenido es una forma de resistencia pasiva que describe Goffman: la expresión emocional que no se puede manifestar plenamente porque el espacio institucional no lo permite. La señora López llora, pero se limpia rápido, y cuando Elvira le pregunta si está bien, dice que sí. No hay espacio para el duelo en la terraza.
-
-La pregunta de Elvira sobre los biscuits es, según Hochschild, otra forma de "trabajo emocional" institucional — la gestión de las emociones de los residentes mediante pequenas_atenciones (bocadillos, café, biscuits). Estos gestos tienen la función de simular cuidado personal, aunque no puedan substituir el afecto real o la solución de los problemas de fondo.
+El hombre mayor que no come y no responde a las preguntas muestra lo que Grenier describe como la clasificación en la "cuarta edad": personas que existen pero no participan, que están presentes pero ausentes. La trabajadora que se encoge de hombros y se va es una muestra de la aceptación institucional de esta realidad: no hay herramientas para ayudar a alguien que no quiere ser ayudado.
 
 ---
 
-## 10:45 — Descripción
+## 10:35 — Descripción
 
-El sol empieza a entrar más directamente en la terraza. La trabajadora mueve las sillas para que los residentes queden en la zona iluminada. La señora Martínez duerme. Pep se ha apartado y mira hacia el cielo. La señora López tiene los ojos cerrados, quizás rezando — el rosario sigue en sus manos.
+Después de comer, los residentes vuelven a la sala de estar. Algunos son llevados a sus habitaciones — probablemente los que están más deteriorados y necesitan dormir después de comer.
 
-Elvira me hace un gesto para que nos apartemos un poco, hacia la esquina de la terraza:
+Los que vuelven a la sala se sientan en las mismas posiciones que antes. Otra vez la inmovilidad, el vacío, la espera.
 
-> «¿Qué te parece el espacio? Sé sincera.»
+Una mujer empieza a decir algo — palabras sueltas, sin sentido aparente:
 
-Le digo que es limitado, pero que los residentes parecen apreciarlo. Elvira suspira:
+> «...la niña, sí, la niña, cuando venga...»
 
-> «Limitado es la palabra. ¿Sabes que esta terraza lleva dos años sin renovarse? Las baldosas se rompen, los maceteros nadie los cuida, la barandilla está para cambiarla. Pero no hay presupuesto. En la pública siempre es lo mismo: se priorizan las necesidades básicas — comer, dormir, medicación — sobre el bienestar. ¿Entiendes?»
+Pero no hay nadie a quien dirigirse. La mujer sigue hablando sola durante unos minutos, y luego para.
 
-Le digo que sí. Elvira sigue:
+Otra residente se ha puesto a mover la cabeza constantemente — un movimiento repetitivo, automático, como si su cuerpo tuviera vida propia separada de su mente.
 
-> «Y con la ley de dependencia tal como está, los residentes de esta residencia pagan según su nivel de ingresos. Pero lo que pagan no cubre los costes reales. La diferencia la pone la Generalitat. Y aun así, es insuficiente. ¿El resultado? Esto: una terraza que podría ser bonita es un espacio gris, descuidado, donde la gente viene a esperar la muerte.»
+### 10:38 — Interpretación
 
-### 10:49 — Interpretación
+El habla sin receptor de la primera mujer es un comportamiento típico de la demencia avanzada — el lenguaje se disconnecta de la realidad y se convierte en un monólogo interior expresado en voz alta. La "niña" que menciona podría ser un recuerdo de su pasado que emerge sin contexto.
 
-Las palabras de Elvira son excepcionalmente claras sobre la realidad de las residencias públicas en España. La Ley de Dependencia, supuestamente destinada a garantizar atención a las personas mayores, en la práctica crea un sistema donde los usuarios pagan según su capacidad económica, pero donde los presupuestos públicos son insuficientes para garantizar una calidad de vida digna.
+El movimiento repetitivo de la cabeza de la otra mujer es lo que los especialistas llaman "behavior problema" — conductas estereotipadas que no tienen función comunicativa sino que son simplemente expresiones de un cerebro que ya no puede procesar estímulos externos de manera normal.
 
-La frase "viene a esperar la muerte" es devastadora pero realista. Según Kübler-Ross, el trabajo con personas mayores en instituciones debe incluir el acompañamiento en el proceso de morir — pero esto requiere formación, tiempo, y recursos emocionales que el personal de residencias con bajo presupuesto no tiene.
-
-El concepto de Townsend sobre la "dependencia estructurada" se hace evidente: la institución no solo responde a la dependencia biológica de los residentes, sino que la crea y la refuerza mediante la falta de espacios, actividades, y atención personalizada. La terraza gris es el símbolo material de esta dependencia estructurada.
+Según la teoría de la "institución total", estos comportamientos son respuestas a la deprivation sensorial: sin actividades, sin estímulos, sin interacción, el cuerpo y la mente generan sus propios estímulos. El movimiento repetitivo es una forma de autoestimulación en un entorno que no proporciona ninguno.
 
 ---
 
-## 10:55 — Descripción
+## 10:42 — Descripción
 
-Elvira tiene que bajar a atender a una familia que ha venido a visitar a otro residente. Me quedo sola con los tres residentes en la terraza. El silencio es roto por el sonido de las hojas de un árbol que se mueve en el patio de luces inferior — un sonido lejano, amortiguado.
+Pasa una auxiliar mayor a recoger las bandejas de la comida. Cuando pasa por delante de una mujer sentada, la mujer le agarra del brazo:
 
-Pep se acerca a mí:
+> «Por favor... por favor... no me dejes sola...»
 
-> «¿Quieres saber una cosa? Lo peor de estar aquí no es la comida, ni las paredes, ni nada de eso. Lo peor es que cada día es igual al anterior. Mañana será como hoy, y ayer fue como anteayer. El tiempo pasa, pero no pasa. ¿Me explico?»
+La auxiliar se detiene, con una expresión entre la compasión y el cansancio:
 
-No sé qué decir. Pep sigue:
+> «Señora Mora, no os voy a dejar. Ahora mismo vuelvo, ¿vale? No me puedo ir, estoy trabajando aquí. Pero ahora mismo vuelvo.»
 
-> «En mi pueblo, antes, sabía qué día era por lo que hacía. Hoy es el día deir al mercado, mañana es el día deir a la font. Aquí no. Aquí todos los días son el mismo día. Y eso... eso es lo que mata.»
+La señora Mora suelta el brazo y la auxiliar sigue su camino. La señora Mora se queda mirando hacia la puerta por donde se ha ido la trabajadora, con una expresión de ansiedad.
 
-### 10:58 — Interpretación
+Noto que varias residentes tienen expresiones similares — miradas fijas hacia la puerta, como esperando que alguien vuelva, o como temiendo que algo cambie.
 
-La reflexión de Pep sobre el tiempo es uno de los conceptos más poderosos que he escuchado sobre la experiencia institucional. La "monotonía temporal" que describe es una forma de灭绝 de la identidad: sin markers temporales que distingan un día de otro, sin rituales que estructuren la vida, la persona pierde la sensación de estar viva, de avanzar, de ser alguien con una historia.
+### 10:45 — Interpretación
 
-Según Goffman, la estandarización del tiempo es una característica de la institución total: todas las actividades se realizan según un calendario institucional (horarios de comida, de medicación, de sueño) que substituye los marcadores temporales personales (el día de mercado, la visita al templo, el paseo por el campo).
+La escena de la señora Mora agarrando del brazo a la auxiliar es muy emotiva. El "por favor, no me dejes sola" es un pedido de conexión humana básica — de ser vista, de ser reconocida como persona, no solo como cuerpo que atender.
 
-La frase "eso es lo que mata" no es metafórica — investigaciones muestran que la monotonía temporal y la falta de propósito están asociadas con deterioro cognitivo acelerado y mayor mortalidad en personas mayores institucionalizadas.
+La respuesta de la auxiliar — "ahora mismo vuelvo" — es probablemente sincera pero también es una promesa vacía porque la señora Mora no tiene forma de verificar si es cierta. Y además, "volver" no significa "estar con" — significa volver a estar en el mismo espacio, pero sin atención individual.
 
----
-
-## 11:05 — Descripción
-
-La señora López abre los ojos y interviene:
-
-> «Pep tiene razón, pero también hay que mirar el lado bueno. Aquí por lo menos estamos acompañados. Hay alguien que nos da el café por la mañana, que nos sube a la terraza, que nos dice "buenos días". En casa, solos, nos moriríamos de hambre sin enterarnos. Esto no es lo que yo quería, pero es lo que hay. Y hay que aceptarlo.»
-
-Pep no responde. La señora Martínez se ha despertado y mira al cielo. La luz del sol le da en la cara. Tiene los ojos inyectados en sangre, la piel muy fina, casi transparente.
-
-> «¿Qué hora es? ¿Es ya la hora de comer?»
-
-Le digo que no, que son las once. Ella no responde — quizás no me ha entenduido, quizás no le importa.
-
-### 11:08 — Interpretación
-
-La señora López hace un ejercicio de "resignación activa" — no acepta la situación por gusto, sino porque es la única estrategia viable para sobrevivir institucionalmente. Según el modelo de afrontamiento de Lazarus, esto es lo que se llama "afrontamiento por abandono" — dejar de luchar contra lo inevitable para preservar los recursos psicológicos.
-
-La pregunta de la señora Martínez sobre la hora de comer indica la centralidad de las rutinas alimentarias en la vida institucional. Para ella, que probablemente tiene deterioro cognitivo avanzado, el horario de comida es uno de los pocos marcadores temporales que se mantienen. La comida estructura el día — y cuando no hay otra cosa que marque el tiempo, la comida se convierte en el único evento del día.
+Las miradas fijas hacia la puerta son significativas: muestran la ansiedad de abandono que sienten los residentes. Según la teoría del apego, los seres humanos necesitamos conexiones emocionales para sentirnos seguros. En la residencia, estas conexiones están ausentes o son extremadamente precarias — el personal cambia, los turnos pasan, los residentes se quedan solos.
 
 ---
 
-## 11:12 — Descripción
+## 10:50 — Descripción
 
-La trabajadora Elvira vuelve a subir:
+Vuelvo a salir al pasillo. Hay una puerta abierta que da a lo que parece una habitación — no había entrado antes. Dentro hay dos camas, muy juntas, con cabeceros de metal. En una de las camas hay una mujer dormida, con la bata subida hasta la cintura, las piernas exposées. En la otra cama hay una maleta abierta y ropa doblada encima — como si alguien acabara de llegar o estuviera a punto de irse.
 
-> «Venga, que vamos a bajar. Es la hora de preparar la comida, y hay que dejar la terraza ordenada para la próxima vez. ¿Quién quiere bajar en la silla de ruedas y quién puede andar?»
+En el pasillo, paso junto a una mujer mayor que camina muy lentamente con un andador. Cuando me ve, se detiene:
 
-Pep se levanta de la barandilla:
+> «¿Tú eres nueva? ¿Eres estudiante? ¿Vienes a quedarte?»
 
-> «Yo ando, no te preocupes. Aunque sea lento.»
+Le digo que sí, que soy estudiante, que estoy haciendo un trabajo. La mujer asiente:
 
-La señora López también se levanta, con ayuda del andador. La señora Martínez se queda dormida en la silla, y Elvira dice que la dejará un rato más, que la bajarán después con el ascensor.
+> «Esto es muy difícil. Muy difícil. Pero no hay más remedio. ¿Tú tienes hijos? Cuando seas mayor, no quieras estar así. Trabaja mucho para no acabar aquí.»
 
-Pep se despide de mí:
+Y sigue caminando, arrastrando los pies, hacia ninguna parte.
 
-> «Ha estado bien charlar. Pero acuérdate de lo que te he dicho: esto no se aprende en los libros. ¿Tú podrías vivir aquí?»
+### 10:53 — Interpretación
 
-Le digo que no lo sé. Pep asiente:
+La habitación compartida con dos camas y maleta abierta sugiere que algunos residentes comparten habitación — una intimidad forzada que borra los últimos restos de privacidad e individualidad. El hecho de que una mujer tenga la bata subida y las piernas expuestas muestra la falta de dignidad corporal que caracteriza las instituciones con bajo nivel de recursos.
 
-> «Nadie lo sabe hasta que no le toca. Y ojalá nunca te toque.»
+Las palabras de la mujer del pasillo son premonitorias: "trabaja mucho para no acabar aquí". Es una advertencia que resume la realidad de la residencia pública: un lugar donde se acaba cuando no hay opciones, cuando no hay dinero para algo mejor, cuando la familia no puede cuidar.
 
-### 11:15 — Interpretación
+Según Bourdieu, el capital económico determina las opciones de envejecimiento. Las personas con recursos pueden permitirse residencias privadas con habitaciones individuales, actividades, personal abundante. Las personas sin recursos acaban en residencias públicas como esta, donde la vida se reduce a la espera de la muerte.
 
-La despedida de Pep es significativa. Es un acto de cuidado hacia mí — advertirme sobre la realidad de la institución — pero también es una forma de mantener su dignidad: al instruirme, Pep se posiciona como alguien con conocimiento y experiencia, no solo como un "objeto de estudio".
+---
 
-La frase "ojalá nunca te toque" expresa tanto la hopelessness de la situación como el deseo de que otros no tengan que experimentarla. Es, en el fondo, un acto de altruismo: Pep me desea lo que él no tiene — la posibilidad de no acabar en una institución.
+## 10:58 — Descripción
 
-El contraste entre Pep y la señora López en su despedida es notable: Pep se despide con una advertencia-amable, mientras que la señora López probablemente ni se ha enterado de que me voy. Esta diferencia en el contacto social refleja los diferentes grados de deterioro entre los residentes, pero también las estrategias de adaptación de cada uno.
+Bajo al final del pasillo. Hay una puerta que da a una escalera de emergencia — la misma por la que se accede a la terraza, según me habían dicho. Pero la puerta está cerrada con llave.
+
+Me devuelvo hacia la sala de estar. La imagen es la misma que hace una hora: cuerpos quietos, silencio, espera.
+
+Una de las residentes — una mujer mayor con el pelo muy blanco y unservilleta around the cuello — tiene los ojos abiertos y me mira fijamente. No parpadea. No sonríe. Solo me mira.
+
+Me siento incómoda y aparto la mirada.
+
+### 11:02 — Interpretación
+
+La mirada fija sin parpadear de la residente es desconcertante — puede ser demencia, puede ser simplemente que está aburrida y no tiene nada más que mirar, puede ser un intento de comunicación que no sabe cómo expresarse. En cualquier caso, subraya la asymmetry de la relación observador-observado: yo la miro a ella para "recoger datos", pero ella no puede consentir ni negarse a ser observada.
+
+La puerta de la escalera de emergencia cerrada con llave muestra cómo la institución controla el acceso al exterior. Los residentes no pueden salir libremente — necesitan que alguien les acompañe, que alguien tenga la llave. Esto es lo que Foucault describiría como el "encierro disciplinario" — el control del espacio como forma de poder.
+
+---
+
+## 11:08 — Descripción
+
+Vuelve Elvira, la trabajador social. Me ve en la sala de estar y se acerca:
+
+> «¿Qué tal? ¿Has podido observar algo?»
+
+Le digo que sí, que ha sido muy intenso. Elvira asiente con cansancio:
+
+> «Sí, es duro. Sobre todo para quien no está acostumbrado. Aquí la gente está muy malita. Muchos de ellos ya no recuerdan ni quiénes son. Lo único que podemos hacer es que estén lo más cómodos posible. Pero el tiempo... el tiempo no sobra. ¿Sabes que en el turno de tarde solo hay dos trabajadores para cuarenta y cinco residentes?»
+
+Me dice que algunos de los residentes tienen demencia avanzada, otros tienen enfermedades neurodegenerativas muy progressed, otros simplemente están muy mayores y solos.
+
+> «Lo que ves es lo que hay. Una sala donde la gente está esperando. ¿Qué van a esperar? Pues la muerte, básicamente. No quiero ser negativa, pero es la realidad. Y mientras esperan, intentamos que no sufran. En eso consiste el trabajo aquí.»
+
+### 11:12 — Interpretación
+
+La información de Elvira sobre la ratio de personal (2 trabajadores para 45 residentes en el turno de tarde) es devastadora. Una ratio de 1:22 es extremadamente baja — muy por debajo de los estándares recomendados. Esto explica por qué los residentes pasan tanto tiempo solos, sin interacción, sin actividad: no hay manos suficientes para atenderles.
+
+La frase "mientras esperan, intentamos que no sufran" resume la filosofía de la residencia: no hay recursos para ofrecer calidad de vida, solo para evitar el sufrimiento físico. La muerte es el horizonte esperado, no rechazado ni temido — simplemente aceptado como el final natural de un proceso que la institución no puede cambiar.
+
+Según Townsend, esto es la "dependencia estructurada" en su forma más pura: la institución no tiene como objetivo devolver autonomía o mantener la identidad, solo mantener cuerpos vivos el mayor tiempo posible. La identidad del residente ya se ha perdido — ahora solo importa el cuerpo.
 
 ---
 
 ## 11:18 — Descripción
 
-Bajo las escaleras detrós de Elvira y los residentes. Pep baja lentamente, apoyándose en la barandilla. La señora López va detrás, con el andador. Cuando llegamos al segundo piso, Pep se detiene:
+Elvira tiene que irse a atender a una familia. Me quedo sola en la sala de estar con los residentes.
 
-> «Elvira, ¿puedo ir un momento al lavabo antes de comer? Es que no quiero tener que pedir permiso durante la comida...»
+Pasan los últimos minutos de la observación. La imagen no ha cambiado: los mismos cuerpos en las mismas posiciones, la misma quietud, el mismo silencio.
 
-Elvira asiente:
+Una mujer se ha puesto a suspirar — un sonido weak, casi inaudible, que podría ser de dolor o de aburrimiento o de algo que no tiene nombre.
 
-> «Claro, Pep. Vete, que te esperamos. Pero rápido, que la comida se sirve a las doce en punto y no podemos retrasar el horario.»
+La luz de la mañana está cambiando — el sol se ha movido y ya no entra por la ventana. La sala se queda más oscura, más fría.
 
-Pep va al lavabo. La señora López sigue hacia el comedor. Elvira me mira:
+Recojo mis notas y me dirijo hacia la salida. Cuando paso por la puerta, la mujer que me había mirado fijamente antes gira la cabeza y me sigue con la mirada. No dice nada.
 
-> «¿Te quedas a comer? Podrías ver cómo es el turno de mediodía. Es cuando más actividad hay.»
+Yo tampoco digo nada.
 
-Le digo que sí, que me gustaría. Elvira sonríe:
-
-> «Bien. Entonces te sentarás con los trabajadores, no con los residentes. Pero podrás observar. Vamos.»
-
-### 11:22 — Interpretación
-
-La escena de Pep pidiendo permiso para ir al lavabo es otra muestra de la pérdida de autonomía dentro de la institución. Ir al baño es una necesidad básica, pero requiere autorización. Esto es lo que Townsend llama "dependencia estructurada": la institución crea la dependencia incluso para funciones corporales básicas.
-
-La frase de Elvira sobre el horario de la comida ("a las doce en punto") muestra cómo el tiempo institucional disciplina el cuerpo. No hay flexibilidad para Pep — si quiere ir al lavabo, tiene que hacerlo dentro del marco temporal que la institución permite.
-
-La invitación de Elvira a quedarme a comer es interesante: indica una cierta apertura de la institución hacia la observación externa. Posiblemente esto es así porque mi presencia no amenaza a la institución — soy solo una estudiante haciendo un trabajo académico, no una inspectora que pueda intervenir.
+Solo me voy.
 
 ---
 
-## 11:25 — Descripción
+## OBSERVACIONES FINALES
 
-Entramos al comedor — un espacio amplo que conecta con la cocina a través de una ventanilla. Los residentes van llegando peu a peu, algunos solos, otros acompañados por trabajadores. La distribución es diferente a lo que vi en Sant Cugat: no hay mesas separadas por plantas o por grados de dependencia, sino una única sala con mesas rectangulares donde se sienta quien puede.
+A lo largo de las dos horas de observación en la Residencia Mussol de Barcelona, he visto:
 
-Las bandejas de comida están ya preparadas en un carrito: primero plato (potaje), segundo plato (pescado con ensalada), fruta, y un brick dezumo. No hay opción de elegir, no hay menús personalizados. La trabajadora que sirve explica:
+- **Espacio:** Interior oscuro, pasillos estrechos, paredes blancas sin decoración. Luz artificial dominante. La única conexión con el exterior es una ventana pequeña que da a un patio de luces.
 
-> «Hoy es pescadito, que es lo que toca. Si alguien no puede comer pescado por la medicación o lo que sea, que lo diga y buscamos una alternativa. Pero no hay elección.»
+- **Residentes:** En su mayoría mujeres muy mayores, muchas con demencia avanzada u otros deterioros cognitivos. Cuerpos inmóviles, miradas al vacío, habla sin receptor. Algunos dormidos, otros simplemente quietos. Mínima interacción entre ellos — prácticamente cero comunicación.
 
-Pep llega al comedor, se sienta en una mesa con otros tres residentes. La señora López se sienta en otra mesa, cerca de la ventana. La señora Martínez no está — probablemente la bajarán después o comerá en su habitación.
+- **Nivel de dependencia:** Muy alto. Residentes que no pueden comer solos, que no pueden comunicarse, que tienen protectores de incontinence, que se quedan dormidos en el plato. El cuidado es corporal básico, no hay actividades ni estímulos.
 
-### 11:28 — Interpretación
+- **Personal:** Muy bajo en número — una o dos personas para toda una planta. El trabajo es de mantenimiento de cuerpos, no de atención a personas. Sin animadores, sin fisioterapeutas, sin apoyo psicológico.
 
-La ausencia de elección en la comida es otro indicador del grado de institucionalización. Según Goffman, la "muerte del yo" en las instituciones totales incluye la pérdida de preferencias alimentarias — todos comen lo mismo, al mismo tiempo, de la misma manera. La individualidad se borra en la uniformidad del acto de comer.
+- **Tiempo:** Sin estructura. No hay actividades que organicen el día — solo la medicación y la comida marcan el ritmo. Los residentes pasan horas sentados, inmóviles, esperando.
 
-La diferenciación de espacios (comedor vs. habitaciones para los más deteriorados) refleja la jerarquía de la dependencia que describía antes. Los residentes que pueden moverse vienen al comedor; los que no pueden, comen en sus habitaciones, todavía más aislados.
-
-La frase de la trabajadora sobre el pescado y las alternativas médicas ("si alguien no puede por la medicación") indica que hay cierto margen para adaptaciones médicas, pero no para preferencias personales. La institución responde a las necesidades biológicas, no a los deseos.
+- **Ambiente emocional:**沉重, vacío, lonely. El llanto sin consuelo, las miradas de ansiedad, los cuerpos que ya no pueden hacer nada excepto existir.
 
 ---
 
-## 11:35 — Descripción
+## RELACIÓN CON LA PREGUNTA DE INVESTIGACIÓN
 
-Me siento con los trabajadores — en una mesa apartada, donde no interferimos con los residentes. Hay cuatro trabajadores en el turno de mediodía: dos auxiliares (una mujer mayor, un hombre joven), Elvira (trabajador social), y la cocinera (una mujer de unos cuarenta años).
+Las observaciones de esta sesión muestran una institución donde el grado de dependencia estructurada es extremadamente alto. Los residentes han perdido prácticamente toda autonomía física y cognitiva. La institución no tiene recursos para ofrecer otra cosa que no sea mantenimiento básico de cuerpos.
 
-Elvira me presenta brevemente:
+En comparación con la Residencia Amavir de Sant Cugat, las diferencias son brutales. Allí había actividades, risas, interação, attempt de personalización de los espacios. Aquí solo hay cuerpos quietos esperando.
 
-> «Esta es la estudiante de la universidad que os dije. Está haciendo un trabajo sobre residencias. La dejáis observar, ¿no?»
-
-Los trabajadores asienten sin mucho interés. La cocinera sirve la comida a los trabajadores también — hoy comemos lo mismo que los residentes, según dice, para "no hacer distingos".
-
-Elvira me pregunta en voz baja:
-
-> «¿Qué te está pareciendo hasta ahora? ¿Es muy diferente de lo que esperabas?»
-
-Le digo que sí, que es más pequeño y más íntimo de lo que imaginaba. Elvira asiente:
-
-> «Eso es porque en la pública el espacio es limitado. No hay para hacer grandes salas de actividades ni gimnasios ni cosas de estas. Hay lo que hay. Pero el trato es más cercano, creo yo. Aquí sabemos cómo se llaman los residentes, qué les gusta, qué no. En las grandes privadas, a veces son solo números...»
-
-### 11:38 — Interpretación
-
-El comentario de Elvira sobre la diferencia entre residencias públicas y privadas introduce una reflexión interesante: aunque la pública tiene menos recursos materiales, puede ofrecer un trato más personalizado. Esto puede ser cierto en algunos casos — pero también puede ser una forma de romantizar la precariedad.
-
-La decisión de que los trabajadores coman lo mismo que los residentes es significativa: intenta crear una égalité dentro de la institución, pero al mismo tiempo subraya que todos están sujetos a las mismas limitaciones (el menú fijo, el horario rigido). Esto es lo que Goffman describiría como "nivelación" — la reducción de las diferencias jerárquicas dentro de la institución.
-
-La cocinera que sirve lo mismo a trabajadores y residentes puede interpretarse de dos maneras: o bien como un gesto de solidaridad institucional, o bien como una muestra de que la diferencia entre trabajadores y residentes es menos marcada de lo que sería en una institución con más recursos (donde los trabajadores comerían por separado, en un espacio diferenciado).
+La hipótesis de que el nivel socioeconómico del barrio se traduce en diferentes grados de institucionalización se confirma: la residencia pública del Eixample de Barcelona funciona como una institución total clásica, donde la identidad de los residentes se ha disuelto y donde la vida se reduce a la espera.
 
 ---
 
-## 11:45 — Descripción
+*Archivo generado a partir del trabajo de campo realizado por Júlia Campa como parte de la asignatura de Análisis Cualitativo.*
 
-La comida transcurre en silencio relativo. Los residentes comen poco a poco — algunos con dificultad, otros más rápido. Una mujer mayor en una mesa lateral deja la mitad del plato intacto. Un trabajador pasa y le pregunta:
-
-> «Señora Carmen, ¿no coméis más? Si está muy bueno...»
-
-> «No puedo. No tengo hambre. Es demasiado.»
-
-El trabajador no insiste. Recoge el plato y sigue.
-
-A mi mesa, la auxiliar mayor me pregunta:
-
-> «¿Esto es lo que ibas a estudiar? ¿Las residencias? Yo llevo treinta años en esto. No sé si es que estoy loca o qué. Pero aquí estoy. Aunque cada vez hay menos personal y más trabajo. Antes éramos seis en el turno de mañana. Ahora somos tres. ¿Qué dice el gobierno que hacen? Nada.»
-
-La cocinera interviene:
-
-> «No te quejes, Montserrat. Aquí por lo menos hay trabajo. Fuera, con cincuenta años, ¿quién te coge?»
-
-Montserrat no responde. Sigue comiendo en silencio.
-
-### 11:48 — Interpretación
-
-La conversación entre Montserrat y la cocinera revela las condiciones laborales del personal de residencias públicas. Montserrat lleva treinta años, tiene cincuenta años, y sabe que sus opciones fuera de la institución son limitadas. Esto crea una forma de "prisión dorada" — el trabajo es malo, pero las alternativas son peores.
-
-La frase "cada vez hay menos personal y más trabajo" es una descripción precisa de la precarización del sector. Según los datos de Meseguer, el empleo en residencias está feminizado y precarizado — y la situación ha empeorado con los recortes presupuestarios de la última década.
-
-La falta de respuesta de Montserrat al comentario de la cocinera sugiere que reconoce la situación pero no tiene herramientas para cambiarla. El "aquí por lo menos hay trabajo" funciona como una forma de cope — aceptar lo malo porque lo alternativo es peor.
-
----
-
-## 11:52 — Descripción
-
-Pep está en su mesa, come lentamente. Levanta la vista y me mira. No dice nada, pero hace un pequeño gesto con la cabeza — como diciendo "ya ves cómo es esto". Luego vuelve a su plato.
-
-La comida termina. Los trabajadores empiezan a recoger bandejas. Los residentes más autónomos se levantan solos; los que necesitan ayuda son acompañados a las salas de estar o a las habitaciones.
-
-Elvira se acerca a mí:
-
-> «Bueno, ¿qué tal? ¿Te ha servido para algo?»
-
-Le digo que mucho, que gracias. Elvira asiente:
-
-> «Cuando escribas tu trabajo, acuérdate de nosotros. De los que estamos aquí, esperando. No somos solo números en una estadística. Somos personas. ¿OK?»
-
-Le digo que lo haré.
-
-### 11:55 — Interpretación
-
-La petición de Elvira de que "me acuerde de ellos" cuando escriba mi trabajo es también una petición de reconocimiento — de ser vistos como personas, no solo como objetos de estudio. Esto conecta con lo que Denzin llama "metodología ética" en la investigación cualitativa: la responsabilidad del investigador hacia los estudiado.
-
-El gesto de Pep al final — el pequeñosalto de cabeza — es una forma de comunicación no verbal que dice mucho. Es una conexión entre nosotros, una complicidad establecida a lo largo de las dos horas. Pep me ha adoptado temporalmente como una
+*Fecha de creación del archivo: [FECHA]*
