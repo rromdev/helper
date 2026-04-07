@@ -1,411 +1,411 @@
-# NOTES DE CAMP - RESIDÈNCIA MUSSOL, BARCELONA
-## Treball de Camp - Anàlisi Qualitativa
-**Data:** [DATA DEL TREBALL DE CAMP]  
-**Escenari:** Residencia Mussol, Carrer Bruc 32, Barcelona  
+# NOTAS DE CAMPO - RESIDENCIA MUSSOL, BARCELONA
+## Trabajo de Campo - Análisis Cualitativo
+**Fecha:** [FECHA DEL TRABAJO DE CAMPO]  
+**Escenario:** Residencia Mussol, Carrer Bruc 32, Barcelona  
 **Observadora:** Júlia Campa  
-**Hora d'entrada:** 09:45 | **Hora de sortida:** 11:45  
-**Durada:** 2 hores (4h totals - 2h cada dia, 2 dies)  
+**Hora de entrada:** 09:45 | **Hora de salida:** 11:45  
+**Duración:** 2 horas (4h totales - 2h cada día, 2 días)  
 
 ---
 
-## DIJOUS 10:00 — ARRIBADA I PRIMERES IMPRESSIONS
+## JUEVES 10:00 — LLEGADA Y PRIMERAS IMPRESIONES
 
-### 10:02 — Descripció
+### 10:02 — Descripción
 
-Enfilo les escales de l'edifici del Carrer Bruc. L'edifici és antics, compartit amb veïns — escolto les portes que es tanquen als pisos mentre pujo. No hi ha rètol gros a l'exterior, només un carteletx petit al costat del portal. L'ascensor és estret, amb una porta metàl·lica gastada. Quan entro al replà de la segona planta, la porta de la residència és oberta de bat a bat.
+Subo las escaleras del edificio del Carrer Bruc. El edificio es antiguo, compartido con vecinos — escucho las puertas que se cierran en los pisos mientras subo. No hay letrero grande en el exterior, solo un cartel pequeño al lado del portal. El ascensor es estrecho, con una puerta metálica gastada. Cuando llego al rellano de la segunda planta, la puerta de la residencia está abierta de par en par.
 
-La recepció és petita. El taulell és baix, de fusta antiga, no l'alçada institucional d'Amavir. Hi ha una dona asseguda rere el taulell — toca un ordinador antic, la pantalla una mica inflada. Saluda:
+La recepción es pequeña. El mostrador es bajo, de madera antigua, no la altura institucional de Amavir. Hay una mujer sentada detrás del mostrador — toca un ordenador antiguo, la pantalla algo hinchada. Saluda:
 
-> «Bon dia! Vine a fer la feina de la universitat, oi? Endavant, passa.»
+> «¡Buenos días! ¿Vienes a hacer el trabajo de la universidad, no? Adelante, pasa.»
 
-No hi ha càmeres visibles a la recepció, però sí que noto un espai petit on sembla que n'hi hauria d'haver una.
+No hay cámaras visibles en la recepción, pero sí noto un espacio pequeño donde parece que debería haber una.
 
-L'olor és diferent de la de Sant Cugat. Mésck. A baix es nota una barreja de menjar que s'està fent, detergents, i una cosa que no sé explicar — una humitat resident, de lloc tancat.
+El olor es diferente al de Sant Cugat. Más ck. Abajo se nota una mezcla de comida que se está haciendo, detergentes, y algo que no sé explicar — una humedad residente, de lugar cerrado.
 
-L'espai és estret. Els passadissos no tenen la lluminositat de Sant Cugat — les finestres donen a un pati de llums interiors, no a carrers amplis. Les parets són blanques però amb certes taques a l'interior de les portes.
+El espacio es estrecho. Los pasillos no tienen la luminosidad de Sant Cugat — las ventanas dan a un patio de luces interior, no a calles amplias. Las paredes son blancas pero con algunas manchas en el interior de las puertas.
 
-### 10:05 — Interpretació
+### 10:05 — Interpretación
 
-Aquesta primera impressió ja em diu moltes coses. El fet que l'edifici sigui compartit amb veïns és molt significatiu: la residència no s'autossegrega del barri, sinó que hi conviu. Segons Marc Augé, un "no-lloc" és un espai de transitorietat que no té història ni identitat pròpia. Aquí, en canvi, l'espai conviu amb la vida quotidiana del barri — es veuen les portes dels veïns, s'escolten —, però precisament per això la residència no construeix un "lloc" propi. És una institució en un edifici que no ha estat dissenyat per ser residència.
+Esta primera impresión ya me dice muchas cosas. El hecho de que el edificio sea compartido con vecinos es muy significativo: la residencia no se autossegrega del barrio, sino que convive con él. Según Marc Augé, un "no-lugar" es un espacio de transitoriedad que no tiene historia ni identidad propia. Aquí, en cambio, el espacio convive con la vida cotidiana del barrio — se ven las puertas de los vecinos, se escuchan —, pero precisamente por eso la residencia no construye un "lugar" propio. Es una institución en un edificio que no ha sido diseñado para ser residencia.
 
-La manca de càmeres visibles contrasta amb el que es veuria en una institució total segons Goffman: quan no hi ha recursos per a vigilància tecnològica, el control s'exerceix d'altres maneres. La recepcionista coneix perfectament qui entra — no cal registre electrònic. El control és personal, directe.
-
----
-
-## 10:08 — Descripció
-
-Travesso un passadís estret. A la dreta hi ha una porta de vidre que comunica amb el que sembla el menjador i la cuina tot alhora. Tot està connectat — no hi ha la separació clara d'espais que veia a Sant Cugat amb el gimnàs, la biblioteca, la cafeteria com a unitats diferenciades. La cuina és visible des del menjador, les olles a la vista.
-
-Al menjador hi ha unes quantes persones assegudes. Compt: cinc, sis, set... algunes en cadires de rodes, altres en cadires normals. No hi ha taules separades per grups com a Sant Cugat — tot és un espai compartit. Les cadires no tenen rodes. La llum ve de uns fluorescents al sostre, no de finestres.
-
-Una dona gran, amb un jersei de llana gris i sabates de casa, em mira mentre passo. No diu res.
-
-### 10:11 — Interpretació
-
-La disposició de l'espai em recorda el concepte de Foucault sobre el poder disciplinari: l'espai serveix per a fer visible i controlable el cos. Quan tot està connectat i en un espai petit, una sola persona pot observar molts residents alhora. Això encaixa amb la idea de microfísica del poder — el control no ve tant de les càmeres sinó de la disposició física que fa que tots estiguin a la vista.
-
-Segons Bourdieu, el capital econòmic es tradueix en capital espacial. Aquí no hi ha els recursos per a crear espais diferenciats — el gimnàs, la sala d'estar separada, la biblioteca. Tot conflueix en un espai que serveix per a múltiples funcions. Això és el contrari de la "desinstitucionalització" que suposadament ofereix una residència ric: aquí la institució total és completa, sense disfracers.
+La falta de cámaras visibles contrasta con lo que se vería en una institución total según Goffman: cuando no hay recursos para vigilancia tecnológica, el control se ejerce de otras maneras. La recepcionista conoce perfectamente quién entra — no hace falta registro electrónico. El control es personal, directo.
 
 ---
 
-## 10:14 — Descripció
+## 10:08 — Descripción
 
-Arribo a una sala d'estar petita. Quatre dones i dos homes escampats. Una de les dones, amb els cabells blancs lligats amb un mocador, està dormida al sofà. Un home gran, amb una jaqueta de trages, seu sol mirant el buit.
+Cruzo un pasillo estrecho. A la derecha hay una puerta de cristal que comunica con lo que parecen el comedor y la cocina todo a la vez. Todo está conectado — no hay la separación clara de espacios que veía en Sant Cugat con el gimnasio, la biblioteca, la cafetería como unidades diferenciadas. La cocina es visible desde el comedor, las ollas a la vista.
 
-Una treballadora — dones joves, totes dones, nota: una porta un xàndal institucional amb ellogotip de la residència — passa per davant i saluda l'home:
+En el comedor hay unas cuántas personas sentadas. Cuento: cinco, seis, siete... algunas en sillas de ruedas, otras en sillas normales. No hay mesas separadas por grupos como en Sant Cugat — todo es un espacio compartido. Las sillas no tienen ruedas. La luz viene de unos fluorescentes en el techo, no de ventanas.
 
-> «Bon dia, Manolo! Com estàs hui?»
+Una mujer mayor, con un jersey de lana gris y zapapicos de casa, me mira mientras paso. No dice nada.
 
-Ell no contesta. Ella segueix caminant sense esperar resposta.
+### 10:11 — Interpretación
 
-Algú ha deixat el resum d'un programa de televisió obert a la taula. Les persones que hi ha a la sala no interactuen entre elles.
+La disposición del espacio me recuerda el concepto de Foucault sobre el poder disciplinario: el espacio sirve para hacer visible y controlable el cuerpo. Cuando todo está conectado y en un espacio pequeño, una sola persona puede observar a muchos residentes al mismo tiempo. Esto encaja con la idea de microfísica del poder — el control no viene tanto de las cámaras sino de la disposición física que hace que todos estén a la vista.
 
-### 10:17 — Interpretació
-
-La interacció que acabo de presenciar és molt significativa. La treballadora fa la pregunta ritual ("Com estas?") però no espera resposta. És una interacció buida, una formalitat que manté les aparences de relació personal però que en realitat és un acte administratiu. Segons Goffman, els treballadors d'una institució total desenvolupen "marques de respecte" — interaccions superficials que simulen consideració però que no impliquen un reconeixement real de la persona.
-
-La manca d'interacció entre residents suggereix el que Vincent Miller anomena "espai sociofug" — dissenys que mantenen les persones separades. Quan no hi ha espais que convidin a la trobada (taules rodones, sofàs enfrentats), la interacció no passa. A Sant Cugat, en canvi, les sales tenien jocs de taula, fotografies, decoració que convidava a la conversa.
+Según Bourdieu, el capital económico se traduce en capital espacial. Aquí no hay los recursos para crear espacios diferenciados — el gimnasio, la sala de estar separada, la biblioteca. Todo converge en un espacio que sirve para múltiples funciones. Esto es lo contrario de la "desinstitucionalización" que supuestamente ofrece una residencia rica: aquí la institución total es completa, sin disfraces.
 
 ---
 
-## 10:20 — Descripció
+## 10:14 — Descripción
 
-Una dona gran amb un vestit de flors s'aixeca de la cadira amb dificultat. Es posa dempeus, s'agafa del respatller, fa uns quants passos cap a la finestra. Porta mitges blanques i sabates negres de taló baix. Els seus moviments són lents, calculats.
+Llego a una sala de estar pequeña. Cuatro mujeres y dos hombres esparcidos. Una de las mujeres, con el cabello blanco atado con un pañuelo, está dormida en el sofá. Un hombre mayor, con una chaqueta de traje, está solo mirando al vacío.
 
-Una treballadora jove — llatina, portuària del seu accent — la veu des del passadís:
+Una trabajadora — mujeres jóvenes, todas mujeres, nota: una lleva un chándal institucional con el logotipo de la residencia — pasa por delante y saluda al hombre:
 
-> «Senyora Rosa, voleu que us acompanye?»
+> «¡Buenos días, Manolo! ¿Cómo estás hoy?»
 
-> «No, no,gràcies. Només vull veure el carrer.»
+Él no contesta. Ella sigue caminando sin esperar respuesta.
 
-La dona segueix dreta una estona, mirant per la finestra. La treballadora espera uns segons i se'n va.
+Alguien ha dejado el resumen de un programa de televisión abierto en la mesa. Las personas que hay en la sala no interactúan entre ellas.
 
-### 10:23 — Interpretació
+### 10:17 — Interpretación
 
-Aquí hi ha una tensió interessant entre autonomia i control. La senyora Rosa vol fer una cosa sola — anar a la finestra — però la treballadora es oferix per acompanyar-la. Aparentment és una mostra de cura, però en realitat podria ser una forma de vigilància: assegurar-se que la resident no faci res fora del previst.
+La interacción que acabo de presenciar es muy significativa. La trabajadora hace la pregunta ritual ("¿Cómo estás?") pero no espera respuesta. Es una interacción vacía, una formalidad que mantiene las apariencias de relación personal pero que en realidad es un acto administrativo. Según Goffman, los trabajadores de una institución total desarrollan "marcas de respeto" — interacciones superficiales que simulan consideración pero que no implican un reconocimiento real de la persona.
 
-Segons Enid Schatz i Townsend, la "dependència estructurada" no és tant una condició biològica com una construcció institucional. Quan el personal està sota d'un nombre i no pot atendre individualment, la solució és agrupar els residents per a fer-los controlables. La treballadora no pregunta què vol veure la senyora Rosa al carrer — simplement s'ofereix per anar amb ella. La iniciativa de la resident és parcialment anul·lada per la lògica institucional.
-
----
-
-## 10:27 — Descripció
-
-Passa una altra treballadora portant un carret amb medicines. S'atura davant d'una dona asseguda:
-
-> «Senyora Mercè, les pastilles de les deu.»
-
-La dona fa que sí amb el cap. La treballadora li posa les pastilles a la mà i li dóna un got d'aigua. No parlen més. La treballadora segueix.
-
-Noto que les treballadores porten un uniformes senzills — pitet blanc i una mena de xàndal blau fosc. Totes dones. No hi ha bates com a Sant Cugat, on les professionals portaven bata per sobre de la roba de carrer.
-
-### 10:30 — Interpretació
-
-El tema de la medecina és molt revelador. Segons Amanda Grenier, la classificació de les persones majors entre "autònomes" i "dependents" no és tant una qüestió mèdica com una qüestió de discurs institucional. La senyora Mercè pren pastilles "de les deu" — un horari fix, institucional, no pas una adaptació al seu ritme. A Sant Cugat, en canvi, hi havia més flexibilitat i discussió sobre els horaris de medecina.
-
-La manca de bata és un indicador important. A Sant Cugat, les professionals portaven bata per sobre de la roba de carrer — una mena de distinció entre la persona i el seu rol professional. Ací, el xàndal és la única identificació. Això pot significar que no hi ha la separació entre " persona" i "rol" que sí que es feia a Sant Cugat. Segons Bourdieu, el capital cultural es manifesta en la forma de distingir-se — i el fet de no dur bata podria indicar que no hi ha l'esforç de distingir que sí que existia a la residència privada.
+La falta de interacción entre residentes sugiere lo que Vincent Miller denomina "espacio sociófugo" — diseños que mantienen a las personas separadas. Cuando no hay espacios que invite al encuentro (mesas redondas, sofás enfrentados), la interacción no ocurre. En Sant Cugat, en cambio, las salas tenían juegos de mesa, fotografías, decoración que invitaba a la conversación.
 
 ---
 
-## 10:35 — Descripció
+## 10:20 — Descripción
 
-Una treballadora porta un gots de te a la sala. Fa tres viatges des de la cuina — no porta safata, sinó que els porta un a un. A algunes persones que no es poden moure bé, els dóna el got amb cullera, ajudant-los a beure.
+Una mujer mayor con un vestido de flores se levanta de la silla con dificultad. Se pone de pie, se agarra del respaldo, da unos cuántos pasos hacia la ventana. Lleva medias blancas y zapatos negros de tacón bajo. Sus movimientos son lentos, calculados.
 
-> «Vinga, senyora Lluïsa, que está fredet. Va, bonica.»
+Una trabajadora joven — latina, portuaria de su acento — la ve desde el pasillo:
 
-Una de les persones grans, que estava adormida a la cadira, s'espabila en sentir la veu. Mira la treballadora una estona i torna a tancar els ulls.
+> «Señora Rosa, ¿queréis que os acompañe?»
 
-El treballador que era a la cuina — jove, llatinoamericà — ix amb un altre vas de te per a un home gran que seu al menjador. L'home no diu res, però quan el treballador li posa el te davant, fa un somriure petit.
+> «No, no, gracias. Solo quiero ver la calle.»
 
-### 10:38 — Interpretació
+La mujer sigue de pie un rato, mirando por la ventana. La trabajadora espera unos segundos y se va.
 
-El fet que el te es done amb cullera a alguns residents és un indicador de la intimitat del cuidad. Segons Evelyn Nakano Glenn, el treball de cures és sovint invisible i no reconegut. Aquest treballador (home jove, llatinoamericà) està fent una tasca que seria invisible en una residència amb més recursos — ajudant a beure a una persona que no pot fer-ho sola.
+### 10:23 — Interpretación
 
-El tracte "bonica" que li diu la treballadora a la senyora Lluïsa és interessant. És una forma de cuidado emocional que manté les aparences d'afecte però que, segons Hochschild, és una "tasca emocional" que es fa per complir amb el rol. No sabem si la treballadora realment sent afecte o si simplement està fent la seua feina.
+Aquí hay una tensión interesante entre autonomía y control. La señora Rosa quiere hacer una cosa sola — ir a la ventana — pero la trabajadora se ofrece para acompañarla. Aparentemente es una muestra de cuidado, pero en realidad podría ser una forma de vigilancia: asegurarse de que la residente no haga nada fuera de lo previsto.
 
-La presència d'un home jove llatinoamericà en un rol de cures directes és coherent amb el que deia Meseguer sobre la segregació ocupacional de gènere i ètnia: les dones (i les persones migrants) es concentren en els llocs de cures directes, mentre que els llocs de direcció i coordinació acostumen a estar ocupats per dones autòctones o homes.
+Según Enid Schatz y Townsend, la "dependencia estructurada" no es tanto una condición biológica como una construcción institucional. Cuando el personal está bajo en número y no puede atender individualmente, la solución es agrupar a los residentes para hacerlos controlables. La trabajadora no pregunta qué quiere ver la señora Rosa en la calle — simplemente se ofrece para ir con ella. La iniciativa de la residente es parcialmente anulada por la lógica institucional.
 
 ---
 
-## 10:42 — Descripció
+## 10:27 — Descripción
 
-Una de les dones grans, la que estava dormint al sofà, es lleva. Porta un vestit de制度的 estampat i unes sabates de recanvi que semblen de clínica. S'aixeca amb dificultat, s'agafa del respatller del sofà, i comença a caminar cap al passadís.
+Pasa otra trabajadora llevando un carrito con medicamentos. Se detiene delante de una mujer sentada:
 
-Una treballadora la veu:
+> «Señora Mercè, las pastillas de las diez.»
 
-> «Senyora Teresa, on aneu? Volieu alguna cosa?»
+La mujer hace que sí con la cabeza. La trabajadora le pone las pastillas en la mano y le da un vaso de agua. No hablan más. La trabajadora sigue.
 
-> «Anar al lavabo.»
+Noto que las trabajadoras llevan uniformes sencillos — babero blanco y una especie de chándal azul oscuro. Todas mujeres. No hay batas como en Sant Cugat, donde las profesionales llevaban bata sobre la ropa de calle.
 
-> «Us acompanye?»
+### 10:30 — Interpretación
+
+El tema de la medicina es muy revelador. Según Amanda Grenier, la clasificación de las personas mayores entre "autónomas" y "dependientes" no es tanto una cuestión médica como una cuestión de discurso institucional. La señora Mercè toma pastillas "de las diez" — un horario fijo, institucional, no una adaptación a su ritmo. En Sant Cugat, en cambio, había más flexibilidad y discusión sobre los horarios de medicina.
+
+La falta de bata es un indicador importante. En Sant Cugat, las profesionales llevaban bata sobre la ropa de calle — una especie de distinción entre la persona y su rol profesional. Aquí, el chándal es la única identificación. Esto puede significar que no hay la separación entre "persona" y "rol" que sí se hacía en Sant Cugat. Según Bourdieu, el capital cultural se manifiesta en la forma de distinguirse — y el hecho de no llevar bata podría indicar que no hay el esfuerzo de distinguir que sí existía en la residencia privada.
+
+---
+
+## 10:35 — Descripción
+
+Una trabajadora lleva un vaso de té a la sala. Hace tres viajes desde la cocina — no lleva bandeja, sino que los trae uno a uno. A algunas personas que no se pueden mover bien, les da el vaso con cuchara, ayudándoles a beber.
+
+> «Vamos, señora Lluïsa, que está fresquito. Ea, bonita.»
+
+Una de las personas mayores, que estaba dormida en la silla, se espabila al escuchar la voz. Mira a la trabajadora un rato y vuelve a cerrar los ojos.
+
+El trabajador que estaba en la cocina — joven, latinoamericano — sale con otro vaso de té para un hombre mayor que está sentado en el comedor. El hombre no dice nada, pero cuando el trabajador le pone el té delante, hace una sonrisa pequeña.
+
+### 10:38 — Interpretación
+
+El hecho de que el té se dé con cuchara a algunos residentes es un indicador de la intimidad del cuidado. Según Evelyn Nakano Glenn, el trabajo de cuidados es a menudo invisible y no reconocido. Este trabajador (hombre joven, latinoamericano) está haciendo una tarea que sería invisible en una residencia con más recursos — ayudar a beber a una persona que no puede hacerlo sola.
+
+El trato "bonita" que le dice la trabajadora a la señora Lluïsa es interesante. Es una forma de cuidado emocional que mantiene las apariencias de afecto pero que, según Hochschild, es una "tarea emocional" que se hace para cumplir con el rol. No sabemos si la trabajadora realmente siente afecto o si simplemente está haciendo su trabajo.
+
+La presencia de un hombre joven latinoamericano en un rol de cuidados directos es coherente con lo que decía Meseguer sobre la segregación ocupacional de género y etnia: las mujeres (y las personas migrantes) se concentran en los puestos de cuidados directos, mientras que los puestos de dirección y coordinación suelen estar ocupados por mujeres autóctonas u hombres.
+
+---
+
+## 10:42 — Descripción
+
+Una de las mujeres mayores, la que estaba dormida en el sofá, se levanta. Lleva un vestido de estampado de flores y unos zapatos de repuesto que parecen de clínica. Se levanta con dificultad, se agarra del respaldo del sofá, y empieza a caminar hacia el pasillo.
+
+Una trabajadora la ve:
+
+> «Señora Teresa, ¿dónde vais? ¿Queríais algo?»
+
+> «Ir al baño.»
+
+> «¿Os acompaño?»
 
 > «Sí.»
 
-La treballadora l'agafa del braç i se l'endú.
+La trabajadora la agarra del brazo y se la lleva.
 
-### 10:45 — Interpretació
+### 10:45 — Interpretación
 
-El "volieu alguna cosa?" és una pregunta que parteix del pressupost que la resident no té agency propi — que no pot anar al lavabo sense permís o sense explicació. A Sant Cugat, en canvi, els residents semblaven tenir més llibertat de moviment. Segons Townsend, la "dependència estructurada" es crea precisament d'aquesta manera: quan les institucions assumeixen que les persones necessiten autorització per a fer coses quotidianes.
+El "¿queríais algo?" es una pregunta que parte del presupuesto de que la residente no tiene agency propia — que no puede ir al baño sin permiso o sin explicación. En Sant Cugat, en cambio, los residentes parecían tener más libertad de movimiento. Según Townsend, la "dependencia estructurada" se crea precisamente de esta manera: cuando las instituciones asumen que las personas necesitan autorización para hacer cosas cotidianas.
 
-El fet que la treballadora pregunti "on aneu?" en lloc de simplement acompanyar suggereix que hi ha un registre, un control. La residència sap on és cada resident en cada moment.
-
----
-
-## 10:48 — Descripció
-
-Torne al menjador. A la taula gran del mig, quatre residents mengen plegats. No parlen entre ells — cadascun té el plat davant i mengen en silenci. Un dels homes fa pauses llargues entre cullarada i cullarada. Una de les dones menja molt a poc a poc, amb dificultats per a empassar.
-
-El treballador de cuina passa per la sala i recull els plats quan algú acaba. Quan arriba a l'home gran que menjava a poc a poc, li pregunta:
-
-> «Volieu més, home? No mengeu res...»
-
-> «No tinc gana. Me'n vaig anar al llit prest, no?»
-
-El treballador no contesta. Recull el plat i se'n va.
-
-### 10:51 — Interpretació
-
-El comentari "me'n vaig anar al llit prest" és molt poderós. L'home està expressant una idea de fi — que no val la pena menjar perquè s'acaba. Això encaixa amb el que Grenier diu sobre la "quarta edat" i la classificació de les persones com a "fràgils" o "dependents". El treballador no sap com respondre a això — no té eines per a gestionar la conversa sobre la mort. Segons Kübler-Ross, el personal d'institucions de cures sovint no té formació per a tractar amb el dol o la mort imminent.
-
-La pregunta del treballador "no mengeu res?" és una mostra de cura, però arriba amb frustració continguda. El treballador no té temps per a seure amb l'home i parlar sobre el que vol dir amb "me'n vaig anar al llit prest". La manca de recursos (temps, personal) fa que les interaccions siguen superficials.
+El hecho de que la trabajadora pregunte "¿dónde vais?" en lugar de simplemente acompañar sugiere que hay un registro, un control. La residencia sabe dónde está cada residente en cada momento.
 
 ---
 
-## 10:55 — Descripció
+## 10:48 — Descripción
 
-Una dona gran que no havia vist fins ara s'acosta a la recepció. Porta un mocador al cap i una jaqueta gruixuda. Es posa davant de la recepcionista i li pregunta:
+Vuelvo al comedor. En la mesa grande del medio, cuatro residentes comen juntos. No hablan entre ellos — cada uno tiene el plato delante y comen en silencio. Uno de los hombres hace pausas largas entre cucharada y cucharada. Una de las mujeres come muy despacio, con dificultades para tragar.
 
-> «Puc eixir al carrer? Volia anar a missa.»
+El trabajador de cocina pasa por la sala y recoge los platos cuando alguien termina. Cuando llega al hombre mayor que comía despacio, le pregunta:
 
-La recepcionista mira un paper:
+> «¿Queréis más, hombre? No coméis nada...»
 
-> «A les onze hi ha activitat, senyora. Després de dinar, si voleu, podeu eixir una estona.»
+> «No tengo hambre. Me voy a la cama pronto, ¿no?»
 
-> «Sí, però jo volia anar ara...»
+El trabajador no contesta. Recoge el plato y se va.
 
-> «Ara no hi ha ningú per a acompanyar-vos. A les onze hi ha activitat, ja sabeu com funciona. Això és el que hi ha.»
+### 10:51 — Interpretación
 
-La dona es queda callada uns segons, baixa la mirada, i se'n torna cap a dins.
+El comentario "me voy a la cama pronto" es muy poderoso. El hombre está expresando una idea de final — que no vale la pena comer porque se acaba. Esto encaja con lo que Grenier dice sobre la "cuarta edad" y la clasificación de las personas como "frágiles" o "dependientes". El trabajador no sabe cómo responder a esto — no tiene herramientas para gestionar la conversación sobre la muerte. Según Kübler-Ross, el personal de instituciones de cuidados a menudo no tiene formación para tratar con el duelo o la muerte inminente.
 
-### 10:58 — Interpretació
-
-Aquest és un dels moments més clars de limitació de l'autonomia. La dona vol anar a missa — una activitat que forma part de la seva identitat, de la seva vida anterior — però la institució li diu que no ara, que quan ella vulga, però sense personal per a acompanyar. La resposta "això és el que hi ha" és una expressió de la lógica institucional: els recursos es prioritzen segons les necessitats de la institució, no segons els desitjos dels residents.
-
-Segons Goffman, la mortificació del jo passa quan la institució substitueix les rutines de la persona per rutines institucionals. Anar a missa era part de la vida de la senyora — la seva identitat incloïa ser catòlica, participar en la comunitat. Quan la institució impedeix aquesta pràctica, està dient que la seva identitat passada no importa.
-
-A Sant Cugat, en canvi, hi havia sortides al jardí, activitats exteriors, i una sensació de llibertat molt més gran. La diferència no és tant el diner com el concepte: a Sant Cugat es tractava de reproduir una llar; aquí es tracta de gestionar una institució.
+La pregunta del trabajador "¿no coméis nada?" es una muestra de cuidado, pero llega con frustración contenida. El trabajador no tiene tiempo para sentarse con el hombre y hablar sobre lo que quiere decir con "me voy a la cama pronto". La falta de recursos (tiempo, personal) hace que las interacciones sean superficiales.
 
 ---
 
-## 11:02 — Descripció
+## 10:55 — Descripción
 
-Una treballadora diu a una resident que no es pot moure:
+Una mujer mayor que no había visto hasta ahora se acerca a la recepción. Lleva un pañuelo en la cabeza y una chaqueta gruesa. Se pone delante de la recepcionista y le pregunta:
 
-> «Senyora Magdalena, heu de fer servir el bol perquè no podeu anar al lavabo soles. Això és el que toca ara, vale?»
+> «¿Puedo salir a la calle? Quería ir a misa.»
 
-La senyora Magdalena no respon. La treballadora segueix:
+La recepcionista mira un papel:
 
-> «Respirau bé, entesos? Res, que ara us canvie i quedau neta.»
+> «A las once hay actividad, señora. Después de comer, si queréis, podéis salir un rato.»
 
-La resident està immòbil, amb la cara girada cap a la paret. La treballadora segueix parlant-li en un to que intenta ser amable però que sona rutinari.
+> «Sí, pero yo quería ir ahora...»
 
-### 11:05 — Interpretació
+> «Ahora no hay nadie para acompañaros. A las once hay actividad, ya sabéis cómo funciona. Esto es lo que hay.»
 
-El fet de girar la cara cap a la paret podria ser una forma de resistència passiva — una manera de demostrar que la resident no accepta la situació però que no té eines per a resistir obertament. Segons Goffman, la resistència en institucions totals pren formes subtils: la immobilitat, el silenci, la no-col·laboració.
+La mujer se queda callada unos segundos, baja la mirada, y vuelve hacia dentro.
 
-La frase "això és el que toca ara" nega la possibilitat d'elecció. La treballadora no pregunta si la senyora Magdalena prefereix una cosa o una altra; simplement li diu què és el que toca.
+### 10:58 — Interpretación
 
----
+Este es uno de los momentos más claros de limitación de la autonomía. La mujer quiere ir a misa — una actividad que forma parte de su identidad, de su vida anterior — pero la institución le dice que no ahora, que cuando ella quiera, pero sin personal para acompañar. La respuesta "esto es lo que hay" es una expresión de la lógica institucional: los recursos se priorizan según las necesidades de la institución, no según los deseos de los residentes.
 
-## 11:10 — Descripció
+Según Goffman, la mortificación del yo ocurre cuando la institución sustituye las rutinas de la persona por rutinas institucionales. Ir a misa era parte de la vida de la señora — su identidad incluía ser católica, participar en la comunidad. Cuando la institución impide esta práctica, está diciendo que su identidad pasada no importa.
 
-Una de les residents que estava dormint al sofà es lleva sobtadament i comença a parlar en veu alta:
-
-> «Jo no vull estar aquí! Jo vull anar amb la meva filla!»
-
-Ningú s'atura. Les treballadores segueixen amb el que feien. Una d'elles, la que duia el carret de medicines, s'atura un moment i diu:
-
-> «La vostra filla ve demà, senyora. Avui esteu bé ací, entesos?»
-
-> «Demà? Demà? Sempre dieu demà...»
-
-La treballadora segueix el seu camí.
-
-### 11:13 — Interpretació
-
-El "sempre dieu demà" de la resident és una expressió de frustració que mostra que la institució funciona amb promeses buides. Segons Hochschild, el treballador de cures sovint ha de fer "treball emocional" per a gestionar les emocions dels residents — fingir que demà vindrà la filla quan realment no se sap. Aquestes promeses serveixen per a calmar l'ansietat de la resident però no per a resoldre el problema de fons.
-
-El fet que ningú s'ature aconsciencia a la resident suggereix que aquesta mena de situacions passen sovint. La institució ha après a gestionar-les sense rescoldre-les.
+En Sant Cugat, en cambio, había salidas al jardín, actividades exteriores, y una sensación de libertad mucho mayor. La diferencia no es tanto el dinero como el concepto: en Sant Cugat se trataba de reproducir un hogar; aquí se trata de gestionar una institución.
 
 ---
 
-## 11:18 — Descripció
+## 11:02 — Descripción
 
-Una treballadora jove porta un home gran cap al menjador. L'home camina amb dificultat, agafant-se de la cadira de rodes. La treballadora l'ajuda a seure:
+Una trabajadora le dice a una residente que no se puede mover:
 
-> «Vinga, Manolo, que ja teniu el dinar preparat. Avui fan puré de verdures, el vostre preferit, no?»
+> «Señora Magdalena, tenéis que usar el orinal porque no podéis ir al baño solas. Esto es lo que toca ahora, ¿vale?»
 
-Manolo no contesta. La treballadora li posa el plat davant i li dóna una cullera.
+La señora Magdalena no responde. La trabajadora sigue:
 
-Llavors se'n va a seure al banc que hi ha al costat de la paret, al costat de Manolo. S'està ahí uns minuts, mirant el mòbil.
+> «Respirad bien, ¿entendéis? Nada, que ahora os cambio y quedáis limpia.»
 
-### 11:21 — Interpretació
+La residente está inmóvil, con la cara girada hacia la pared. La trabajadora sigue hablándole en un tono que intenta ser amable pero que suena rutinario.
 
-El fet que la treballadora sega al costat de Manolo però estiga mirant el mòbil és molt significatiu. Segons Arlie Hochschild, el treball de cures inclou el "treball emocional" — la feina de fer que algú se senta bé. Però quan no hi ha temps ni recursos, el treballador es queda fisikamente present però emocionalment absent.
+### 11:05 — Interpretación
 
-La pregunta "el vostre preferit, no?" és una forma de personalitzar el servei, de fer veure que es recorda qui és la persona. Però si el treballador no té temps per a seure realment amb Manolo, aquesta personalització és superficial.
+El hecho de girar la cara hacia la pared podría ser una forma de resistencia pasiva — una manera de demostrar que la residente no acepta la situación pero que no tiene herramientas para resistir abiertamente. Según Goffman, la resistencia en instituciones totales toma formas sutiles: la inmovilidad, el silencio, la no-colaboración.
 
-A Sant Cugat, en canvi, el personal feia comentaris sobre les families, sobre les cases dels residents. Ací, els comentaris són sobre el menjar del dia. La diferència és entre una institució que intenta reproduir la vida domèstica i una que simplement intenta alimentar els cossos.
-
----
-
-## 11:25 — Descripció
-
-Un home gran que estava assegut a la sala d'estar comença a plorar. No fort, no enèrgicament — un plor silenciós, amb llàgrimes que li cauen. No diu res.
-
-Una treballadora passa i el veu:
-
-> «Què us passa, home? Esteu bé?»
-
-> «Sí, sí... no res. Crec que no hauria d'estar ací. Tinc una casa, jo. Una casa amb un hort...»
-
-> «Home, ja sabeu que ací esteu molt bé. Teniu menjar, teniu atenció, esteu cuidat...»
-
-L'home no contesta. La treballadora se'n va.
-
-### 11:28 — Interpretació
-
-El plor de l'home és una expressió de la pèrdua de la identitat. Parla de la seua casa, del seu hort — elements que formaven part de la seua vida, del seu jo anterior. Quan la institució el posa en una residència, li està dient que tot açò ja no importa.
-
-Segons Berger i Luckmann, la realitat social es construeix a través de la interacció. Quan l'home entra a la residència, la seua "realitat" deixa de ser la casa i l'hort i passa a ser la institució. La treballadora intenta convincent'l que "ací esteu molt bé" — però això és una forma de redefinir la realitat segons els termes de la institució.
-
-La contenció emocional que fa la treballadora ("esteu molt bé, esteu cuidat") anul·la el dolor de l'home en lloc de reconèixer-lo. No hi ha un espai per al dol a la residència — el personal no té temps ni formació per a tractar amb la pèrdua.
+La frase "esto es lo que toca ahora" niega la posibilidad de elección. La trabajadora no pregunta si la señora Magdalena prefiere una cosa u otra; simplemente le dice qué es lo que toca.
 
 ---
 
-## 11:35 — Descripció
+## 11:10 — Descripción
 
-Una de les residents, que estava asseguda prop de la porta, s'aixeca de sobte i comença a caminar cap a la sortida. Porta mitges i sabates de casa. Camina molt a poc a poc, agafant-se de les parets.
+Una de las residentes que estaba dormida en el sofá se levanta de repente y empieza a hablar en voz alta:
 
-Una treballadora la veu:
+> «¡Yo no quiero estar aquí! ¡Yo quiero ir con mi hija!»
 
-> «Senyora! Senyora! On aneu? Espereu, que us掉落!»
+Nadie se detiene. Las trabajadoras siguen con lo que hacían. Una de ellas, la que llevaba el carrito de medicamentos, se detiene un momento y dice:
 
-La treballadora arriba corrent, l'agafa del braç, la torna a seure.
+> «Tu hija viene mañana, señora. Hoy estáis bien aquí, ¿entendéis?»
 
-> «No podeu anar soles, ja ho sabeu. Us podeu fer mal.»
+> «¿Mañana? ¿Mañana? Siempre decís mañana...»
 
-> «Voleia anar a fora...»
+La trabajadora sigue su camino.
 
-> «A fora no, reina. Ara no es pot. Després del dinar, si fa bon temps, podeu anar al pati. Però ara no. Quedau ací, vale?»
+### 11:13 — Interpretación
 
-La dona no diu res.
+El "siempre decís mañana" de la residente es una expresión de frustración que muestra que la institución funciona con promesas vacías. Según Hochschild, el trabajador de cuidados a menudo tiene que hacer "trabajo emocional" para gestionar las emociones de los residentes — fingir que mañana vendrá la hija cuando realmente no se sabe. Estas promesas sirven para calmar la ansiedad de la residente pero no para resolver el problema de fondo.
 
-### 11:38 — Interpretació
-
-El "no podeu anar soles" és literalment cert — la dona es pot fer mal. Però el que realment passa és que la institució no té recursos per a deixar que els residents circulen lliurement. Si la dona cau, qui és responsable? La resposta de la institució és limitar la llibertat per a limitar la responsabilitat.
-
-Segons Foucault, el poder no és tant una qüestió de prohibit com de regular — de fer que els cossos es moguen dins d'unslimits determinats. El "després del dinar, si fa bon temps, podeu anar al pati" és una condició: la llibertat de la resident depén de factors que no controla (el temps, la disponibilitat del personal).
+El hecho de que nadie se detenga a consolar a la residente sugiere que este tipo de situaciones pasan a menudo. La institución ha aprendido a gestionarlas sin resolverlas.
 
 ---
 
-## 11:42 — Descripció
+## 11:18 — Descripción
 
-Arriba una familiar a la porta. Una dona mitjana edat, amb bosses del supermercat. La recepcionista la saluda:
+Una trabajadora joven lleva un hombre mayor hacia el comedor. El hombre camina con dificultad, agarrándose de la silla de ruedas. La trabajadora le ayuda a sentar:
 
-> «Hola, he vingut a veure ma mare. És a la sala, oi?»
+> «Vamos, Manolo, que ya tenéis la comida preparada. Hoy hacen puré de verduras, vuestro preferido, ¿no?»
 
-> «Sí, esteu endevant. Passau.»
+Manolo no contesta. La trabajadora le pone el plato delante y le da una cuchara.
 
-La dona va cap a la sala d'estar. Quan arriba, la mare — una dona gran amb un mocador al cap — la veu i fa un somriure. La filla li agafa la mà:
+Entonces se va a sentar al banco que hay al lado de la pared, al lado de Manolo. Se está ahí unos minutos, mirando el móvil.
 
-> «Com estas, mama? T'han donat dinar ya?»
+### 11:21 — Interpretación
 
-> «Sí, sí. Però no m'agradava gaire. El pa era dur...»
+El hecho de que la trabajadora se siente al lado de Manolo pero esté mirando el móvil es muy significativo. Según Arlie Hochschild, el trabajo de cuidados incluye el "trabajo emocional" — el trabajo de hacer que alguien se sienta bien. Pero cuando no hay tiempo ni recursos, el trabajador se queda físicamente presente pero emocionalmente ausente.
 
-> «No t'amoïnes, mama. Demà t porte de la bona, vale? El que t'agrada a tu. El pa de cereals.»
+La pregunta "¿vuestro preferido, no?" es una forma de personalizar el servicio, de hacer ver que se recuerda quién es la persona. Pero si el trabajador no tiene tiempo para sentarse realmente con Manolo, esta personalización es superficial.
 
-La mare somriu.
-
-### 11:45 — Interpretació
-
-La interacció entre la filla i la mare és molt diferent de les interaccions amb el personal. La filla pregunta sobre el pa — un detall petit, quotidià, personal. A Sant Cugat, les familiars parlaven sobre les cases, les activitats, les excursions. Ací, la conversa és sobre el pa dur — sobre la insuficiència del que ofereix la institució.
-
-El fet que la filla promesse portar pa de cereals "demà" és una forma de suplir les mancances de la institució. Les famílies funcionen com a recolzament informal davant la insuficiència dels serveis formals.
-
-Segons Townsend, la dependència de les famílies és un mecanisme clau per a entendre les desigualtats en les residències. Quan la institució no pot oferir una vida digna, la família ha d'omplir els buits.
+En Sant Cugat, en cambio, el personal hacía comentarios sobre las familias, sobre las casas de los residentes. Aquí, los comentarios son sobre la comida del día. La diferencia es entre una institución que intenta reproducir la vida doméstica y una que simplemente intenta alimentar los cuerpos.
 
 ---
 
-## 11:50 — Descripció
+## 11:25 — Descripción
 
-La filla s'està amb la mare una estona. Després s'aixeca:
+Un hombre mayor que estaba sentado en la sala de estar empieza a llorar. No fuerte, no enérgicamente — un llanto silencioso, con lágrimas que le caen. No dice nada.
 
-> «Me'n vaig, mama. Demà torno, vale? Sigues bona i fes cas de les noies, no?»
+Una trabajadora pasa y lo ve:
 
-> «Sí, filla. Fins demà.»
+> «¿Qué os pasa, hombre? ¿Estáis bien?»
 
-La mare fa un petó a la filla. La filla se'n va. La mare es queda a la cadira, mirant cap a la porta. No diu res.
+> «Sí, sí... nada. Creo que no debería estar aquí. Tengo una casa, yo. Una casa con un huerto...»
 
-La treballadora passa uns minuts después:
+> «Hombre, ya sabéis que aquí estáis muy bien. Tenéis comida, tenéis atención, estáis cuidados...»
 
-> «Ha estat la vostra filla? Que bé, quebé. Ara dinarem, esteu preparades?»
+El hombre no contesta. La trabajadora se va.
 
-La mare no respon. La treballadora segueix el seu camí.
+### 11:28 — Interpretación
 
-### 11:53 — Interpretació
+El llanto del hombre es una expresión de la pérdida de la identidad. Habla de su casa, de su huerto — elementos que formaban parte de su vida, de su yo anterior. Cuando la institución lo pone en una residencia, le está diciendo que todo esto ya no importa.
 
-La despedida entre la mare i la filla és breu però carregada de significat. El "fes cas de les noies" de la filla és una forma de dir que la mare ha de cedir la seva autonomia a la institució quan la filla no hi és. És una ordre implícita: aquí no pots ser tu mateixa, has de fer el que et diguen.
+Según Berger y Luckmann, la realidad social se construye a través de la interacción. Cuando el hombre entra en la residencia, su "realidad" deja de ser la casa y el huerto y pasa a ser la institución. La trabajadora intenta convencerlo de que "aquí estáis muy bien" — pero esto es una forma de redefinir la realidad según los términos de la institución.
 
-Quan la treballadora diu "que bé, que bé" en saber que ha estat la filla, suggereix que les visites familiars són vistes positivament per la institució — no tant perquè siguen bones per a la resident, sinó perquè alleugen la càrrega de treball del personal.
-
----
-
-## FI DE LA SESSIÓ DE CAMP — 11:55
+La contención emocional que hace la trabajadora ("estáis muy bien, estáis cuidados") anula el dolor del hombre en lugar de reconocerlo. No hay un espacio para el duelo en la residencia — el personal no tiene tiempo ni formación para tratar con la pérdida.
 
 ---
 
-## OBSERVACIONS FINALS
+## 11:35 — Descripción
 
-Al llarg de les dues hores, he observat:
+Una de las residentes, que estaba sentada cerca de la puerta, se levanta de repente y empieza a caminar hacia la salida. Lleva medias y zapatos de casa. Camina muy despacio, agarrándose de las paredes.
 
-- **Espai:** Estret, tot connectat, sense separació clara entre funcions. Sense decoració personal a les parets. Llum artificial dominant.
+Una trabajadora la ve:
 
-- **Personal:** Totes dones (treballadores de cures directes) i homes joves llatinoamericans en alguns llocs. Sense bates, xàndal institucional. Interaccions superficials però constants.
+> «¡Señora! ¡Señora! ¿Dónde vais? ¡Esperad, que os caéis!»
 
-- **Residents:** La majoria dones. Moltes persones dormien a les cadires. Interacció mínima entre residents. Expressions de frustració, plor, soledat.
+La trabajadora llega corriendo, la agarra del brazo, la vuelve a sentar.
 
-- **Horaris:** Rigidament marcats. Les medecines a les deu, el dinar a les dotze. Quan una resident vol anar a missa, se li diu que no ara. Quan algú vol eixir a fora, se li diu que no es pot.
+> «No podéis ir solas, ya lo sabéis. Os podéis hacer daño.»
 
-- **Famílies:** Presentem les visites com a espais de connexió emocional. Les famílies semblen omplir buits que la institució no pot cobrir.
+> «Quería ir a fuera...»
 
-- **Activitats:** No he vist activitats organitzades durant la meua estància aquesta hora. Els residents estaven o dormint o asseguts sense fer res.
+> «A fuera no, reina. Ahora no se puede. Después de comer, si hace buen tiempo, podéis ir al patio. Pero ahora no. Quedáos aquí, ¿vale?»
 
----
+La mujer no dice nada.
 
-## REFLEXIÓN METODOLÒGICA
+### 11:38 — Interpretación
 
-Les notes de camp s'han escrit immediatament después de cada interacció, intentant ser el més literal possible. He intentat separar la **descripció** (el que he vist i escoltat) de la **interpretació** (el que crec que significa segons els marcs teòrics de Goffman, Foucault, Townsend, Bourdieu, Grenier i altres).
+El "no podéis ir solas" es literalmente cierto — la mujer se puede hacer daño. Pero lo que realmente pasa es que la institución no tiene recursos para dejar que los residentes circulen libremente. Si la mujer cae, ¿quién es responsable? La respuesta de la institución es limitar la libertad para limitar la responsabilidad.
 
-Cal assenyalar que:
-
-1. Les hores d'observació han estat parcials (de mati, entre setmana). Les dinàmiques podrien ser diferents a la vesprada o el cap de setmana.
-
-2. La meua presència com a observadora externa pot haver afectat el comportament del personal i alguns residents.
-
-3. No he tingut accés a documents interns de la residència (normativa, horaris, ràtios de personal), de manera que les interpretacions es basen en l'observació directa.
-
-4. Les xifres de residents i personal són estimacions basades en el que he pogut veure durant les hores d'observació.
+Según Foucault, el poder no es tanto una cuestión de prohibir como de regular — de hacer que los cuerpos se muevan dentro de unos límites determinados. El "después de comer, si hace buen tiempo, podéis ir al patio" es una condición: la libertad de la residente depende de factores que no controla (el tiempo, la disponibilidad del personal).
 
 ---
 
-## RELACIÓ AMB LA PREGUNTA DE RECERCA
+## 11:42 — Descripción
 
-Les observacions d'aquesta sessió a la Residencia Mussol de Barcelona mostren una institució amb pocs recursos, on la vida quotidiana està fortament regimentada per horaris fixos i on la llibertat de moviment és molt limitada. La humiliat de l'espai, la manca d'activitats i la superficialitat de les interaccions suggereixen un grau alt d'institucionalització, proper al model d'institució total de Goffman.
+Llega una familiar a la puerta. Una mujer de mediana edad, con bolsas del supermercado. La recepcionista la saluda:
 
-En comparació amb la Residencia Amavir de Sant Cugat (observada anteriorment), les diferencies en autonomia, identitat i qualitat de vida semblen значительны.
+> «Hola, he venido a ver a mi madre. Está en la sala, ¿no?»
+
+> «Sí, estáis en antecedentes. Pasad.»
+
+La mujer va hacia la sala de estar. Cuando llega, la madre — una mujer mayor con un pañuelo en la cabeza — la ve y hace una sonrisa. La hija le coge la mano:
+
+> «¿Cómo estás, mamá? ¿Os han dado de comer ya?»
+
+> «Sí, sí. Pero no me gustaba mucho. El pan estaba duro...»
+
+> «No te preocupes, mamá. Mañana os traigo de la buena, ¿vale? La que te gusta a ti. El pan de cereales.»
+
+La madre sonríe.
+
+### 11:45 — Interpretación
+
+La interacción entre la hija y la madre es muy diferente de las interacciones con el personal. La hija pregunta sobre el pan — un detalle pequeño, cotidiano, personal. En Sant Cugat, las familiares hablaban sobre las casas, las actividades, las excursiones. Aquí, la conversación es sobre el pan duro — sobre la insuficiencia de lo que ofrece la institución.
+
+El hecho de que la hija prometa traer pan de cereales "mañana" es una forma de suplir las carencias de la institución. Las familias funcionan como apoyo informal ante la insuficiencia de los servicios formales.
+
+Según Townsend, la dependencia de las familias es un mecanismo clave para entender las desigualdades en las residencias. Cuando la institución no puede ofrecer una vida digna, la familia tiene que llenar los vacíos.
 
 ---
 
-*Fitxer generat a partir del treball de camp realitzat per Júlia Campa com a part de l'assignatura d'Anàlisi Qualitativa.*
+## 11:50 — Descripción
 
-*Data de creació del fitxer: [DATA]*
+La hija se está con la madre un rato. Después se levanta:
+
+> «Me voy, mamá. Mañana vuelvo, ¿vale? Sé buena y haz caso a las chicas, ¿no?»
+
+> «Sí, hija. Hasta mañana.»
+
+La madre le da un beso a la hija. La hija se va. La madre se queda en la silla, mirando hacia la puerta. No dice nada.
+
+La trabajadora pasa unos minutos después:
+
+> «¿Ha sido vuestra hija? Qué bien, qué bien. Ahora comeremos, ¿estáis preparadas?»
+
+La madre no responde. La trabajadora sigue su camino.
+
+### 11:53 — Interpretación
+
+La despedida entre la madre y la hija es breve pero cargada de significado. El "haz caso a las chicas" de la hija es una forma de decir que la madre tiene que ceder su autonomía a la institución cuando la hija no está. Es una orden implícita: aquí no puedes ser tú misma, tienes que hacer lo que te digan.
+
+Cuando la trabajadora dice "qué bien, qué bien" al saber que ha sido la hija, sugiere que las visitas familiares son vistas positivamente por la institución — no tanto porque sean buenas para la residente, sino porque alivian la carga de trabajo del personal.
+
+---
+
+## FIN DE LA SESIÓN DE CAMPO — 11:55
+
+---
+
+## OBSERVACIONES FINALES
+
+A lo largo de las dos horas, he observado:
+
+- **Espacio:** Estrecho, todo conectado, sin separación clara entre funciones. Sin decoración personal en las paredes. Luz artificial dominante.
+
+- **Personal:** Todas mujeres (trabajadoras de cuidados directos) y hombres jóvenes latinoamericanos en algunos puestos. Sin batas, chándal institucional. Interacciones superficiales pero constantes.
+
+- **Residentes:** La mayoría mujeres. Muchas personas dormían en las sillas. Interacción mínima entre residentes. Expresiones de frustración, llanto, soledad.
+
+- **Horarios:** Rigidamente marcados. Las medicinas a las diez, la comida a las doce. Cuando una residente quiere ir a misa, se le dice que no ahora. Cuando alguien quiere salir a fuera, se le dice que no se puede.
+
+- **Familias:** Presentes, las visitas son espacios de conexión emocional. Las familias parecen llenar vacíos que la institución no puede cubrir.
+
+- **Actividades:** No he visto actividades organizadas durante mi estancia esta hora. Los residentes estaban o durmiendo o sentados sin hacer nada.
+
+---
+
+## REFLEXIÓN METODOLÓGICA
+
+Las notas de campo se han escrito inmediatamente después de cada interacción, intentando ser lo más literal posible. He intentado separar la **descripción** (lo que he visto y escuchado) de la **interpretación** (lo que creo que significa según los marcos teóricos de Goffman, Foucault, Townsend, Bourdieu, Grenier y otros).
+
+Cabe señalar que:
+
+1. Las horas de observación han sido parciales (de mañana, entre semana). Las dinámicas podrían ser diferentes por la tarde o el fin de semana.
+
+2. Mi presencia como observadora externa puede haber afectado el comportamiento del personal y algunos residentes.
+
+3. No he tenido acceso a documentos internos de la residencia (normativa, horarios, ratios de personal), por lo que las interpretaciones se basan en la observación directa.
+
+4. Las cifras de residentes y personal son estimaciones basadas en lo que he podido ver durante las horas de observación.
+
+---
+
+## RELACIÓN CON LA PREGUNTA DE INVESTIGACIÓN
+
+Las observaciones de esta sesión en la Residencia Mussol de Barcelona muestran una institución con pocos recursos, donde la vida cotidiana está fuertemente regimentada por horarios fijos y donde la libertad de movimiento es muy limitada. La humildad del espacio, la falta de actividades y la superficialidad de las interacciones sugieren un alto grado de institucionalización, acorde al modelo de institución total de Goffman.
+
+En comparación con la Residencia Amavir de Sant Cugat (observada anteriormente), las diferencias en autonomía, identidad y calidad de vida parecen significativas.
+
+---
+
+*Archivo generado a partir del trabajo de campo realizado por Júlia Campa como parte de la asignatura de Análisis Cualitativo.*
+
+*Fecha de creación del archivo: [FECHA]*
