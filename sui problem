@@ -1,0 +1,168 @@
+The Record Pattern: Indexing Shared Objects on Sui Without a Database
+Building leafsheep.xyz (a DLMM liquidity manager on Sui), I hit a problem every Sui dev eventually hits:
+How do you fetch all shared objects belonging to a user?
+Owned objects are easy — GraphQL filters by owner and you're done. But shared objects don't have an owner field. And in DeFi, the most important user-facing objects are almost always shared.
+Here's the pattern I ended up with. No off-chain database. No event indexer. Just Move + GraphQL.
+📖 Full source code: https://github.com/RandyPen/cdpm
+Why the obvious solutions fail
+The PositionManager in leafsheep is a shared object holding a user's liquidity position, balances, and accrued fees. A user typically owns several of them across different pools and price ranges. The frontend needs all of them on page load.
+Three "obvious" approaches, all broken:
+1. Filter by owner via GraphQL. Doesn't work — shared objects have no owner.
+2. Scan PositionManagerCreated events and filter client-side. Expensive (full historical scan, pagination), leaves stale state after objects are deleted (events are immutable), and pushes complex replay logic into the client.
+3. Run an off-chain indexer + Postgres. Works, but throws away Sui's biggest advantage — that the chain itself is the source of truth. Now you've got two systems to keep in sync, and a database to operate.
+So I built the index into the chain itself.
+The design: two structs
+rust
+public struct GlobalRecord has key {
+    id: UID,
+    record: Table<address, ID>,
+}
+
+public struct Record has key {
+    id: UID,
+    record: Table<ID, bool>,
+}
+
+public struct PositionManager has key {
+    id: UID,
+    owner: address,
+    agents: VecSet<address>,
+    position: Option<Position>,
+    balance: Bag,
+    fee: Bag,
+}
+GlobalRecord — single shared object, maps address → Record ID. Used purely for deduplication.
+Record — owned by the user. Internally a Table<ID, bool> listing every PositionManager they own. Table (not vector) for O(1) insert/remove and to avoid object size bloat.
+PositionManager — the actual business object. Shared.
+Registration: deduplication via abort semantics
+rust
+public fun register_and_return_record(
+    global_record: &mut GlobalRecord,
+    ctx: &mut TxContext,
+): Record {
+    let record = Record {
+        id: object::new(ctx),
+        record: table::new<ID, bool>(ctx),
+    };
+    let record_id = object::id(&record);
+    table::add(&mut global_record.record, ctx.sender(), record_id);
+
+    event::emit(RecordCreated { record_id, owner: ctx.sender() });
+    record
+}
+Notice there's no contains check. Deduplication relies on table::add aborting when the key already exists. This is the cleanest way to enforce "one Record per address" in Move — a second registration call from the same address aborts the entire transaction. No conditional logic, no extra gas.
+The function returns Record instead of transferring it, so a PTB can chain it directly into the first PositionManager creation in the same transaction.
+Index writes: implicit permission via &mut Record
+rust
+public fun user_deposit_liquidity<CoinTypeA, CoinTypeB>(
+    record: &mut Record,
+    pool: &mut Pool<CoinTypeA, CoinTypeB>,
+    // ...
+) {
+    // create position...
+
+    let pm = PositionManager { /* ... */ };
+    let pm_id = object::id(&pm);
+    table::add(&mut record.record, pm_id, true);  // index write
+    transfer::share_object(pm);
+
+    event::emit(PositionManagerCreated { /* ... */ });
+}
+Because Record is owned, taking &mut Record as a parameter means only the Record's owner can call this function. No explicit access control needed — Sui's object model gives you authorization for free.
+Deregistration: destroy_empty as a safety rail
+rust
+public fun unregister_record(
+    global_record: &mut GlobalRecord,
+    record: Record,
+    ctx: &TxContext,
+) {
+    let Record { id, record } = record;
+    record.destroy_empty();   // aborts if non-empty — intentional
+    id.delete();
+    let record_id = table::remove(&mut global_record.record, ctx.sender());
+
+    event::emit(RecordDeleted { record_id, owner: ctx.sender() });
+}
+destroy_empty aborts if the table still has entries. This is intentional. It guarantees the index can never become a dangling reference — there is no possible state where a PositionManager exists on-chain but its owner's Record has been destroyed. Users must close every PositionManager (each removes itself from record.record) before they can deregister.
+A tiny invariant, enforced by a one-line aborting primitive.
+Frontend: walking the index with pure GraphQL
+The full chain from wallet address to fully hydrated PositionManagers is three GraphQL hops. No backend, no DB.
+Step 1 — address → Record ID
+Record is owned, so a standard owner + type filter works. I run two equivalent queries in parallel and union the results, because GraphQL gateway implementations differ on which form they support:
+typescript
+query GetUserRecordIdsByAddress($owner: SuiAddress!, $recordType: String!) {
+  address(address: $owner) {
+    objects(first: 50, filter: { type: $recordType }) {
+      nodes { address }
+    }
+  }
+}
+
+query GetUserRecordIdsByFilter($owner: SuiAddress!, $recordType: String!) {
+  objects(first: 50, filter: { owner: $owner, type: $recordType }) {
+    nodes { address }
+  }
+}
+recordType is the fully qualified Move type: 0xbb15...8541::cdpm::Record.
+Step 2 — Record → PM ID list
+This is where most devs trip. A Sui Table doesn't store its entries inline — each entry is a dynamic field hanging off the Table's own UID. So we need two sub-steps:
+2a. Read the Record object, extract the inner Table's UID:
+typescript
+query GetObjectJson($objectId: SuiAddress!) {
+  object(address: $objectId) {
+    asMoveObject {
+      contents { json type { repr } }
+    }
+  }
+}
+contents.json.record.id is the Table UID.
+2b. Page through dynamic fields under that UID. Every name.json is a PM ID:
+typescript
+query ListDynamicFields($parentId: SuiAddress!, $cursor: String) {
+  address(address: $parentId) {
+    dynamicFields(first: 50, after: $cursor) {
+      pageInfo { hasNextPage endCursor }
+      nodes {
+        name { json }
+        value {
+          __typename
+          ... on MoveValue  { json type { repr } }
+          ... on MoveObject { contents { json type { repr } } }
+        }
+      }
+    }
+  }
+}
+⚠️ The gotcha: in Sui's GraphQL schema, dynamicFields lives on the Address node, not the Object node. To list a Table's entries, treat the Table's UID as a SuiAddress and query address(address: tableUid).dynamicFields. Took me longer than I'd like to admit to figure out.
+Step 3 — PM ID → details
+Reuse GetObjectJson for each PM ID, in parallel.
+The full path
+markdown
+walletAddress
+  │
+  │  GraphQL #1/#2  →  recordIds[]
+  ▼
+recordId
+  │
+  │  GraphQL #3 (read Record) → tableId
+  │  GraphQL #4 (list dynamic fields, paginated) → pmIds[]
+  ▼
+pmIds[]
+  │
+  │  GraphQL #3 ×N → full PositionManager details
+  ▼
+Hydrated UI
+Three query types. Zero backend services. Chain is the source of truth, end to end.
+When to use this pattern
+Any object that is:
+Shared (owned objects don't need this)
+Belongs to a user, vault, or other entity
+Needs to be enumerated by owner in a frontend
+Lending positions, orderbook orders, marketplace listings, vault shares — all good fits.
+Takeaways
+Three things make this pattern punch above its weight:
+No off-chain DB. The index is on-chain state. Nothing to operate, nothing to keep in sync, no eventual consistency to apologize for.
+Authorization for free. &mut Record is the permission check. Move's object model does the work.
+Invariants from abort primitives. table::add enforces uniqueness. destroy_empty enforces no-dangling-references. Two tiny aborts, one clean system.
+The cost is one extra Table write on every create/destroy. For consumer DeFi, the trade is overwhelmingly worth it.
+If you're building on Sui and finding yourself reaching for an indexer to solve a "list user's stuff" problem — try this first. The chain can do more than you think.
